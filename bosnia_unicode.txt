@@ -1,0 +1,1580 @@
+varname	varlabel
+intnr	Interview number
+inttime	Interview duration (sec)
+scrcnt	Screen count
+internr	Interviewer number
+stime	Start time
+brojupit	brojupit. Broj upitnika
+regija	regija. Regija (ovo unosi anketar)
+q1_1	Q1-1. Koliko imate godina?
+q1_2	Q1-2. Gdje trenutno živite?
+q1_3	Q1-3. U kom dijelu BiH živite?
+q1_4	Q1-4. Koje je vaše stalno mjesto boravka?
+q1_5	Q1-5. Koji je vaš trenutni radni status? ODGOVOR U 1.5 MORA DA SE SLAŽE SA 1.15.
+q1_6	Q1-6. Koji je najviši stepen obrazovanja koji ste završili?
+q1_7	Q1-7. Jeste li pripadnik neke vjere?
+q1_8	Q1-8. Kojoj vjeroispovijesti pripadate?
+q1_9	Q1-9. Koliko osoba živi s vama? (UKUPAN BROJ ne raèunajuæi vas) Samo ja ........
+q1_10_1	Q1-10.: Partnerka-supruga-partner
+q1_10_2	Q1-10.: Vaša djeca
+q1_10_3	Q1-10.: Brat-braæa ili sestra-sestre
+q1_10_4	Q1-10.: Djeca vaše partnerke i drugog muškarca
+q1_10_5	Q1-10.: Roditelji
+q1_10_6	Q1-10.: Drugi èlanovi rodbine (vaše ili partnerove-kine)
+q1_10_7	Q1-10.: Djeca koja nisu s vama u srodstvu
+q1_10_8	Q1-10.: Odrasli koji nisu s vama u srodstvu
+q1_11	Q1-11. Ko/šta je glavni izvor prihoda u vašem domu?
+q1_11dr	Q1-11dr. Drugo (navesti)
+q1_12	Q1-12. Koliki je vaš lièni mjeseèni prihod?
+q1_13	Q1-13. Dobijate li vi ili vaša porodica dobijate neki oblik mjeseène finansijske
+q1_14_1	Q1-14.: Djeèji doplatak
+q1_14_2	Q1-14.: Nadoknadu za nezaposlene
+q1_14_3	Q1-14.: Ostalo
+q1_15	Q1-15. Koji je vaš radni status?
+q1_16	"Q1-16. Koliko sati sedmièno obièno radite posao za novac, ukljuèujuæi prekovreme"
+q1_17	Q1-17. Izjava o poslu: Q1-17. Moj je posao ili situacija na poslu uglavnom stabi
+q1_18	Q1-18. Izjava o poslu: Q1-18. Èesto sam pod stresom ili u depresiji jer nemam do
+q1_19	Q1-19. Izjava o poslu: Q1-19. Èesto sam pod stresom ili u depresiji jer nemam do
+q1_20	Q1-20. Izjava o nezaposlenosti: Q1-20. Ponekad me sramota suoèiti se sa vlastito
+q1_21	Q1-21. Izjava o nezaposlenosti: Q1-21. Veæinu vremena sam bez posla ili tražim p
+q1_22	Q1-22. Izjava o nezaposlenosti: Q1-22. Razmišljao sam o tome da napustim svoju p
+q1_23	Q1-23. Izjava o nezaposlenosti: Q1-23. Ponekad pijem ili izlazim iz kuæe kad ne 
+q2_1	Q2-1. Ko se za vas brinuo dok ste odrastali?
+q2_1dr	Q2-1dr. Drugo (navedi)
+q2_2	Q2-2. Koji stepen obrazovanja je završila vaša majka?
+q2_3	Q2-3. Koji stepen obrazovanja je završio vaš otac?
+q2_4	"Q2-4. U periodu od roðenja pa do 18 godina, koliko ste godina živjeli s vašim bi"
+q2_5_1	Q2-5.: Niko
+q2_5_2	Q2-5.: Moj oèuh
+q2_5_3	Q2-5.: Moj ujak
+q2_5_4	Q2-5.: Moj deda
+q2_5_5	Q2-5.: Moj brat
+q2_5_6	Q2-5.: Prijatelj porodice
+q2_5_7	"Q2-5.: Uèitelj, trener ili religijski voða"
+q2_5_8	Q2-5.: Ostalo
+q2_5dr	Q2-5dr. Ostalo (navesti)
+q2_6	Q2-6. Tvrdnje: Q2-6. Moj otac (ili drugi muškarac koji je živio s majkom) se pre
+q2_7	Q2-7. Tvrdnje: Q2-7. Moja majka se prema mom ocu (ili drugom muškarcu s kojim je
+q2_8	Q2-8. je li vaš otac ili neki drugi muškarac u kuæi: Q2-8. Kuhao hranu
+q2_9	Q2-9. je li vaš otac ili neki drugi muškarac u kuæi: Q2-9. Èistio kuæu
+q2_10	Q2-10. je li vaš otac ili neki drugi muškarac u kuæi: Q2-10. Prao odjeæu
+q2_11	Q2-11. je li vaš otac ili neki drugi muškarac u kuæi: Q2-11. Èistio kupatilo/WC
+q2_12	Q2-12. je li vaš otac ili neki drugi muškarac u kuæi: Q2-12. Brinuo se za vas il
+q2_13	Q2-13. Ko je u vašem domaæinstvu imao posljednju rijeè o odlukama koje se tièu v
+q2_13dr	Q2-13dr. Ostali (navesti)
+q2_14	Q2-14. posljednju rijeè o odlukama... Hranu i odjeæu
+q2_14dr	Q2-14dr. Ostali (navesti)
+q2_15	Q2-15. posljednju rijeè o odlukama... Velike investicije kao što su kupovina aut
+q2_15dr	Q2-15dr. Ostali (navesti)
+q2_16	"Q2-16. Kada ste bili dijete ili adolescent, jesu li vas uèili kako da: Q2-16. Pr"
+q2_17	"Q2-17. Kada ste bili dijete ili adolescent, jesu li vas uèili kako da: Q2-17. Èi"
+q2_18	"Q2-18. Kada ste bili dijete ili adolescent, jesu li vas uèili kako da: Q2-18. Èi"
+q2_19	"Q2-19. Kada ste bili dijete ili adolescent, jesu li vas uèili kako da: Q2-19. Pe"
+q2_20	"Q2-20. Kada ste bili dijete ili adolescent, jesu li vas uèili kako da: Q2-20. Br"
+q2_21	Q2-21. Prije nego li sam napunio 18... koliko èesto: Q2-21. Vidio sam ili èuo sa
+q2_22	Q2-22. Prije nego li sam napunio 18... koliko èesto: Q2-22. Neko me dirao po str
+q2_23	Q2-23. Prije nego li sam napunio 18... koliko èesto: Q2-23. Neko u porodici me v
+q2_24	Q2-24. Prije nego li sam napunio 18... koliko èesto: Q2-24. Roditelji ili odrasl
+q2_25	Q2-25. Prije nego li sam napunio 18... koliko èesto: Q2-25. Jedan ili oboje moji
+q2_26	Q2-26. Prije nego li sam napunio 18... koliko èesto: Q2-26. Imao sam seksualne o
+q2_27	Q2-27. Prije nego li sam napunio 18... koliko èesto: Q2-27. U školi me uèitelj/i
+q2_28	Q2-28. Prije nego li sam napunio 18... koliko èesto: Q2-28. Kod kuæe su mi prije
+q2_29	"Q2-29. Je li bilo zadirkivanja, uznemiravanja, napada u školi ili susjedstvu u k"
+q2_30	Q2-30. Je li vas neko zadirkivao ili uznemiravao?
+q2_31	Q2-31. Jeste li vi zadirkivali i uznemiravali druge?
+q2_32	Q2-32. U mojoj školi se prema djevojkama / djevojèicama uglavnom odnosilo s pošt
+q2_33	Q2-33. U školi su me kaznili jer sam bio fizièki nasilan prema vršnjacima/kinjam
+q2_34	Q2-34. Moji školski prijatelji i ja bismo dirali djevojke ili im dobacivali seks
+q2_35	Q2-35. Ja i grupa mojih školskih prijatelja bi s djevojkama dogovorili seks nako
+q2_36	Q2-36. Ja i grupa mojih školskih prijatelja bi tukli druge suparnièke grupe u šk
+q2_37	Q2-37. Ja i grupa mojih školskih prijatelja bi se izmjenjivali u seksualnim odno
+q2_38	Q2-38. Ja i grupa mojih školskih prijatelja smo bili èlanovi nekog sportskog klu
+q2_39	Q2-39. Ja i moji prijatelji smo u školi uzimali droge.
+q2_40	Q2-40. Moji školski prijatelji pomagali su mi da savladam probleme u životu ili 
+q3_1	"Q3-1. Kada žene rade, oduzimaju posao muškarcima."
+q3_2	"Q3-2. Kada žene dobijaju prava, oduzimaju prava muškarcima."
+q3_3	Q3-3. Prava za žene znaèi da muškarci gube.
+q3_4	"Q3-4. Kada je žena silovana, to obièno znaèi da je uèinila nešto neoprezno i dov"
+q3_5	"Q3-5. U nekim sluèajevima silovanja, žene su željele da se to dogodi."
+q3_6	"Q3-6. Ako se žena fizièki ne opire, to se ne može nazvati silovanjem."
+q3_7	Q3-7. U svakom sluèaju silovanja trebalo bi ispitati je li žrtva promiskuitetna 
+q3_8	Q3-8. Najvažnija uloga žene je da se brine o kuæi i da kuha za svoju porodicu.
+q3_9	Q3-9. Muškarcima treba seks više nego ženama.
+q3_10	"Q3-10. Muškarci ne prièaju o seksu, oni to rade."
+q3_11	Q3-11. Postoje situacije u kojima žena zaslužuje biti istuèena.
+q3_12	"Q3-12. Mijenjanje pelena, kupanje djece, i hranjenje djece su dužnosti majke."
+q3_13	Q3-13. Žena bi trebala biti ona koja se brine da ne zatrudni.
+q3_14	Q3-14. Muškarac bi trebao imati posljednju rijeè o odlukama kod kuæe.
+q3_15	Q3-15. Muškarci su uvijek spremni na seks.
+q3_16	Q3-16. Žena bi trebala tolerisati nasilje kako bi održala porodicu na okupu.
+q3_17	Q3-17. Bio bih bijesan-uvrijeðen da moja žena ili djevojka zatraži da koristim p
+q3_18	Q3-18. Muškarac i žena bi trebali zajedno odluèiti koju vrstu kontracepcije æe k
+q3_19	Q3-19. Nikada ne bih imao prijatelja-icu koji je homoseksualac-lezbejka.
+q3_20	"Q3-20. Ako me neko uvrijedi, braniæu svoj ugled i silom ako bude trebalo."
+q3_21	Q3-21. Biti muškarac znaèi da moraš biti èvrst.
+q3_22	Q3-22. Muškarcima bi trebalo biti neprijatno ako nemaju erekciju za vrijeme seks
+q3_23	Q3-23. Ravnopravnost izmeðu muškaraca i žena je veæ predaleko otišla.
+q3_24	Q3-24. Ravnopravnost izmeðu muškaraca i žena je veæ najveæim dijelom postignuta.
+q3_25	Q3-25. Jeste li vi za ili protiv kvota koje garantuju odreðeni udio žena u insti
+q3_26	Q3-26. Jeste li vi za ili protiv takvog sistema kvota koji garantuje odreðeni ud
+q3_27	Q3-27. Jeste li vi za ili protiv kvota koje garantuju mjesta za žene na upravlja
+q3_28	Q3-28. Jeste li vi za ili protiv takvih zakona koji promovišu jednake plate za m
+q4_1	Q4-1. Neprijatno mi je kada sam u društvu homoseksualnih muškaraca.
+q4_2	Q4-2. Homoseksualnost je prirodna i normalna.
+q4_3	Q4-3. Homoseksualnim muškarcima ne bi smjelo biti dozvoljeno da rade s djecom.
+q4_4	Q4-4. Homoseksualnim muškarcima ne bi smjelo biti dozvoljeno da usvajaju djecu.
+q4_5	Q4-5. Homoseksualnim parovima trebalo bi biti dozvoljeno da se vjenèaju jednako 
+q4_6	Q4-6. Bilo bi me sram da imam sina koji je homoseksualac.
+q4_7	Q4-7. Kada mi se neprestano “nabacuje” ili flertuje sa mnom. (u kojoj od naveden
+q4_8	Q4-8. Kad neprestano bulji u mene. (u kojoj od navedenih situacija bi bilo oprav
+q4_9	Q4-9. Kada se ljubi s drugim muškarcem u javnosti. (u kojoj od navedenih situaci
+q4_10	Q4-10. Kada se ponaša ženskasto. (u kojoj od navedenih situacija bi bilo opravda
+q5_1	Q5-1. Imate li stalnu partnerku/partnera? (pod partnerkom/partnerom smatramo dje
+q5_2	Q5-2. Koliko godina ima ona/on?
+q5_3	Q5-3. Živi li vaša partnerka/partner s vama?
+q5_4_1	živite s partnerkom-om godina:
+q5_4_2	živite s partnerkom-om mjeseci:
+q5_5	Q5-5. Jeste li vi i vaša partnerka/partner istog nivoa obrazovanja?
+q5_6	Q5-6. Koji je radni status vaše partnerke/partnera?
+q5_7	Q5-7. Zaraðujete li vi i ona (ili on) istu kolièinu novca?
+q5_8	Q5-8. Ko ima posljednju rijeè u donošenju odluka... Hranu i odjeæu
+q5_9	Q5-9. Ko ima posljednju rijeè u donošenju odluka... Velike investicije kao što s
+q5_10	Q5-10. Ko u vašoj obitelji obièno ima zadnju rijeè što se tièe provoðenja vremen
+q5_11_1	Q5-11.: Pomoæ od našeg djeteta-djece.
+q5_11_2	"Q5-11.: Plaæena pomoæ (èistaèica, dadilja, itd.)."
+q5_11_3	"Q5-11.: Pomoæ od drugih (porodica, rodbina)"
+q5_11_4	Q5-11.: Nemamo pomoæ
+q5_12	Q5-12. kako vi i vaša partnerka/partner dijelite sljedeæe poslove: Pranje odjeæe
+q5_13	Q5-13. kako vi i vaša partnerka/partner dijelite sljedeæe poslove: Popravke u ku
+q5_14	Q5-14. kako vi i vaša partnerka/partner dijelite sljedeæe poslove: Kupovanje hra
+q5_15	Q5-15. kako vi i vaša partnerka/partner dijelite sljedeæe poslove: Èišæenje kuæe
+q5_16	Q5-16. kako vi i vaša partnerka/partner dijelite sljedeæe poslove: Pripremanje h
+q5_17	Q5-17. kako vi i vaša partnerka/partner dijelite sljedeæe poslove: Plaæanje raèu
+q5_18	Q5-18. Šta mislite o gore navedenoj podjeli poslova?
+q5_19	Q5-19. Jeste li zadovoljni ovakvom podjelom?
+q5_20	Q5-20. Mislite li da je vaša partnerka/partner zadovoljna/zadovoljan takvom podj
+q5_21	Q5-21. Koliko je jasna podjela posla izmedju partnera u vašem domaæinstvu?
+q5_22	"Q5-22. Jeste li vi lièno, ili oboje zatražili pomoæ, na primjer, porodièno savje"
+q5_23	Q5-23. Kako biste okarakterisali vaš zajednièki život s partnerkom/partnerom u c
+q5_24	Q5-24. Kada ste zadnji put razgovarali s vašom partnerkom/partnerom o problemima
+q5_25	Q5-25. Kako biste opisali seksualnu vezu sa vašom partnerkom/partnerom?
+q5_26	Q5-26. Koliko èesto ste koristili prezervative (kondome) tokom seksa u posljednj
+q5_27	"Q5-27. Ukljuèujuæi stalne i povremene partnerke/partnere, s koliko ste partnerki"
+q5_28	"Q5-28. Izuzimajuæi vašu sadašnju vezu, sa koliko ste žena bili u braku/zajedno ž"
+q5_29	"Q5-29. Izuzimajuæi vašu sadašnju vezu, sa koliko ste muškaraca živjeli s kojima "
+q5_30	Q5-30. Kada ste zadnji put imali seksualni odnos s kim je to bilo?
+q5_30dr	Q5-30dr. Ostalo (navesti)
+q5_32	Q5-32. Veoma sam zadovoljan svojim brakom
+q5_33	Q5-33. Smatram da moj brak funkcioniše bolje od mnogih drugih.
+q5_34	Q5-34. Kada bih se opet ženio izabrao bih istog partnera
+q5_35	Q5-35. U mom braku dominiraju lijepi trenuci.
+q5_36	Q5-36. Moj brak je oaza mira i sreæe
+q6_1	Q6-1. Postoji li u vašoj zemlji zakon koji garantuje odmor za oèeve kada se dije
+q6_2	"Q6-2. Ako da, koliko dugo traje?"
+q6_3	Q6-3. Smatrate li da bi trudnièko bolovanje za oèeve trebalo biti zagarantovano 
+q6_4	Q6-4. Koliko dugo traje trudnièko bolovanje majki kada rode djecu?
+q6_5	Q6-5. Smatrate li da bi trudnièko bolovanje za majke trebalo biti zagarantovano 
+q6_6	Q6-6. Smatrate li da zakoni koji u vašoj zemlji regulišu razvode/ rastave daju p
+q6_7	"Q6-7. U sluèaju razvoda, ko ima veæe šanse da dobije starateljstvo nad djetetom "
+q6_8	Q6-8. Je li zajednièko starateljstvo èesto u vašoj zemlji?
+q6_9	Q6-9. Smatrate li da su zakoni vezani za podršku za dijete (alimentaciju) u vašo
+q6_10	Q6-10. Postoje li zakoni u vašoj zemlji koji se tièu utvrðivanja oèinstva u sluè
+q6_11_1	Q6-11.: Zahtjeva DNK test
+q6_11_2	Q6-11.: Službena registracija kao oca djeteta
+q6_11_3	Q6-11.: Zahtjev za alimentacijom
+q6_11_4	Q6-11.: Ne znam
+q6_12	Q6-12. Šta mislite o zakonu koji se odnosi na utvrðivanje oèinstva?
+q6_13	Q6-13. Postoji li u vašoj zemlji zakon koji reguliše nasilje nad ženama?
+q6_14	Q6-14. Previše olakšava ženi da optuži muškarca za nasilje. (Šta mislite o zakon
+q6_15	Q6-15. Zakon je prestrog. (Šta mislite o zakonu koji reguliše nasilje nad ženama
+q6_16	Q6-16. Zakon nije dovoljno strog. (Šta mislite o zakonu koji reguliše nasilje na
+q6_17	Q6-17. Ne štite dovoljno žrtvu nasilja. (Šta mislite o zakonu koji reguliše nasi
+q6_18	Q6-18. Ženu izlaže dodatnoj stigmatizaciji i bolu. (Šta mislite o zakonu koji re
+q6_19	Q6-19. Postoje li u vašoj državi zakoni/politike koje štite homoseksualne osobe 
+q6_20	Q6-20. Što mislite o takvim zakonima/politikama?
+q6_21	Q6-21. Postoje li u vašoj zemlji zakoni/politike koje omoguæavaju registrovanu z
+q6_22	Q6-22. Što mislite o tim zakonima/politikama?
+q6_23	Q6-23. Jeste li ikada èuli za bilo kakve kampanje u vašem okruženju koje se bave
+q6_24	Q6-24. Jeste li ikada vidjeli reklamu ili javnu obavijest na televiziji o muškom
+q6_25	Q6-25. Jeste li ikada uèestvovali u nekim aktivnostima u vašoj zajednici koje su
+q6_26	Q6-26. Jeste li èuli za bilo kakve kampanje ili aktivnosti u vašem okruženju koj
+q6_27	Q6-27. Jeste li uèestvovali u aktivnostima u vašoj zajednici ili radnom mjestu k
+q6_28	Q6-28. Jeste li ikada èuli za bilo kakvu kampanju u vašoj zajednici ili radnom m
+q7_1	Q7-1. Imate li BIOLOŠKO dijete ili djecu?
+q7_2	Q7-2. Koliko biološke djece imate?
+q7_3	Q7-3. Živi li bilo koje od vaše biološke djece U VAŠEM DOMAÆINSTVU?
+q7_4	Q7-4. Koliko ukupno djece (biloške i ne-biološke) živi s vama U VAŠEM DOMAÆINSTV
+q7_5	Q7-5. Ko u vašoj porodici obièno donosi važne odluke vezane uz zdravlje i lijeèe
+q7_6	Q7-6. Ko u vašoj porodici obièno donosi važne odluke vezane uz zdravlje i lijeèe
+q7_7	Q7-7. Gdje je roðeno vaše posljednje dijete
+q7_8	Q7-8. Gdje ste bili kada se rodilo vaše posljednje dijete?
+q7_8dr	Q7-8dr. Drugo (navesti)
+q7_9	"Q7-9. Zadnji put kada ste imali ili usvojili dijete, je li to bila vaša želja il"
+q7_10	"Q7-10. Jeste li zadnji put kada ste imali dijete, osim slobodnih dana, uzeli odm"
+q7_10dr	Q7-10dr. Drugo (navesti)
+q7_10pla	Q7-10pla. unesite dane plaæenog odsustva
+q7_10nep	Q7-10nep. unesite dane neplaæenog odsustva
+q7_11	"Q7-11. Ako niste uzeli odmor, zašto niste?"
+q7_11dr	Q7-11dr. Drugo (navesti)
+q7_12	"Q7-12. Ako ste bili na trudnièkom odsustvu, kada ste bili kuæi s djetetom jeste "
+q7_12dr	Q7-12dr. Drugo (navesti)
+q7_13	Q7-13. Smatrate li da je ovaj period koji ste proveli u kuæi s djetetom kasnije 
+q7_14	Q7-14. Koliko dana/sedmica/mjeseci odmora (plaæenog ili neplaæenog) je vaša part
+q7_14dr	Q7-14dr. Drugo (navesti)
+q7_14pla	Q7-14pla. unesite dane plaæenog odmora partnerke (partnera)
+q7_14nep	Q7-14nep. unesite dane neplaæenog odmora partnerke (partnera)
+q7_15	Q7-15. Jeste li pratili majku(e) svojeg djeteta (djece) na kontrole za vrijeme p
+q7_16	Q7-16. Zbog svog posla provodim premalo vremena sa svojom djecom.
+q7_17	Q7-17. Radio bih manje ako bi to znaèilo da bih mogao više vremena provoditi s d
+q7_18	"Q7-18. Kada se sve uzme u obzir, imam najveæu odgovornost što se tièe zaraðivanj"
+q7_19	Q7-19. Bojim se da bih provodio dosta manje vremena s djecom kada bi se veza s p
+q7_20	Q7-20. Moja uloga u brizi oko djeteta je najèešæe kao pomagaè.
+q7_21	Q7-21. Svakodnevna briga o djetetu.
+q7_22	Q7-22. Ostajanje kuæi s djetetom kada je bolesno.
+q7_23	Q7-23. Odlazak po dijete u školu ili vrtiæ.
+q7_24	Q7-24. Odvoðenje djeteta na slobodne aktivnosti.
+q7_25	Q7-25. djeca 0-5 god. starosti koja žive s vama - Koliko èesto se igrate s djeco
+q7_26	Q7-26. djeca 0-5 god. starosti koja žive s vama - Koliko èesto kuhate ili pripre
+q7_27	Q7-27. djeca 0-5 god. starosti koja žive s vama - Koliko èesto mijenjate pelene 
+q7_28	Q7-28. djeca 0-5 god. starosti koja žive s vama - Koliko èesto kupate djecu?
+q7_29	Q7-29. djeca 6-13 god. starosti koja žive s vama - Koliko èesto se igrate s djec
+q7_30	Q7-30. djeca 6-13 god. starosti koja žive s vama - Koliko èesto razgovarate o li
+q7_31	Q7-31. djeca 6-13 god. starosti koja žive s vama - Koliko èesto s djecom fizièki
+q7_32	Q7-32. djeca 6-13 god. starosti koja žive s vama - Koliko èesto im pomažete sa š
+q7_33	Q7-33. djeca 6-13 god. starosti koja žive s vama - Koliko èesto kuhate ili pripr
+q7_34	Q7-34. djeca 6-13 god. starosti koja žive s vama - Koliko èesto perete odjeæu za
+q7_35	Q7-35. Koliko dana u sedmici viðate vaše biološko dijete koje ne živi s vama?
+q7_36	Q7-36. Uzdržavate li finansijski vaše biološko dijete/djecu koja ne žive s vama?
+q8_1	Q8-1. Jeste li ikada ošamarili partnerku ili na nju bacili nešto što ju je moglo
+q8_2	Q8-2. Jeste li ikada gurnuli partnerku ?
+q8_3	Q8-3. Jeste li ikada udarili partnerku šakom ili s neèim drugim što ju je moglo 
+q8_4	"Q8-4. Jeste li ikada udarili nogom, vukli, istukli, gušili ili nanijeli opekotin"
+q8_5	Q8-5. Jeste li ikada prijetili da æete upotrijebiti ili ste upotrijebili pištolj
+q8_6	Q8-6. Imate li muškog prijatelja koji koristi fizièko nasilje protiv svoje partn
+q8_7	Q8-7. Da li bi mogli dovesti u pitanje/prigovoriti njegovom ponašanju?
+q8_8	Q8-8. Šta bi uèinili da vidite muškog prijatelja kako vrši nasilje nad ženom?
+q8_9	Q8-9. Šta biste uèinili da vidite nekog nepoznatog muškarca da vrši nasilje nad 
+q8_10	Q8-10. Jeste li ikada razgovarali sa vašim sinom ili s djeèakom za kojega se bri
+q9_1	"Q9-1. Kada ste zadnji put potražili zdravstvenu pomoæ u zdravstvenoj ustanovi, u"
+q9_2	"Q9-2. Zadnji put kada ste potražili zdravstvenu pomoæ, koji je bio glavni razlog"
+q9_2dr	Q9-2dr. Drugo (navesti)
+q9_3	"Q9-3. Ako ste iznad 40 godina starosti, jeste li ikada išli na pregled prostate?"
+q9_4	Q9-4. Jeste li se ikada testirali na HIV?
+q9_5	Q9-5. Jeste li uzeli rezultat ili se vratili po njega?
+q9_6	Q9-6. Je li vaša partnerka imala abortus?
+q9_7	Q9-7. Jeste li ikada uèestvovali u odluci vaše partnerke da izvrši abortus?
+q9_8	Q9-8. Jeste li partnerki pružili finansijsku pomoæ za izvršenje abortusa? (Ako s
+q9_9	Q9-9. Jeste li išli s partnerkom na abortus? (Ako se dogodilo više od jednog put
+q9_10	Q9-10. Zadovoljan sam svojim tijelom.
+q9_11	Q9-11. Držim da moj život nije ni od kakve koristi nikome.
+q9_12	Q9-12. Sve skupa imam puno razloga da budem ponosan.
+q9_13	Q9-13. Imam dobar seksualni život.
+q9_14	Q9-14. Ponekad kada sam sa prijateljima osjeæam se potèinjeno.
+q9_15_1	Q9-15.: Ne
+q9_15_2	Q9-15.: Partnerka- djevojka- partner
+q9_15_3	Q9-15.: Rodbina
+q9_15_4	Q9-15.: Profesionalna pomoæ
+q9_15_5	Q9-15.: Obitelj
+q9_15_6	Q9-15.: Profesor-Socijalni radnik
+q9_15_7	Q9-15.: Doktor.
+q9_15_8	Q9-15.: Sveštenik-religijski voða
+q9_15_9	Q9-15.: Prijateljice
+q9_15_10	Q9-15.: Prijatelji
+q9_15_11	Q9-15.: Osoba koja se bavi alternativnom medicinom
+q9_15_12	Q9-15.: Neko drugi
+q9_16	Q9-16. Stres
+q9_17	Q9-17. Depresija
+q9_18	Q9-18. Suicidalne misli
+q9_19	Q9-19. Promjene u kilaži
+q9_20	Q9-20. Problemi sa želucem/probavom
+q9_21	Q9-21. Glavobolje
+q9_22	Q9-22. Gubitak seksualne želje
+q9_23	Q9-23. Zdravstveni problem vezan za posao ili povreda na poslu
+q9_24_1	"Q9-24.: Da, kao rezultat povrede"
+q9_24_2	"Q9-24.: Da, kao rezultat nasilja"
+q9_24_3	"Q9-24.: Da, kao rezultat saobraæajne ili neke druge nezgode"
+q9_24_4	"Q9-24.: Da, kao rezultat bolesti"
+q9_24_5	Q9-24.: Ne
+q9_25	Q9-25. Smatrate li da su raspoložive zdravstvene usluge koje koristite prilagoðe
+q10_1	Q10-1. Jeste li ikada nekoga pokrali?
+q10_2	Q10-2. Jeste li ikada bili ukljuèeni u tuèu nožem ili nekim drugim oružjem?
+q10_3	Q10-3. Jeste li ikada bili èlan bande?
+q10_4	Q10-4. Posjedujete li vatreno oružje?
+q10_5	Q10-5. Jeste li ikada bili uhapšeni?
+q10_6	Q10-6. Koliko puta ste bili uhapšeni?
+q10_7	Q10-7. Jeste li bili u zatvoru?
+q10_8	Q10-8. Koliko èesto popijete alkoholno piæe?
+q10_9	Q10-9. Koliko èesto popijete 5 ili više alkoholnih piæa u jednoj prilici?
+q10_10	Q10-10. Koliko puta ste koristili marihuanu tokom posljednjih 12 mjeseci?
+q10_11	Q10-11. Neko vas je lupio ili udario.
+q10_12	Q10-12. Neko vam je prijetio nožem ili drugim hladnim oružjem.
+q10_13	Q10-13. Neko vam je prijetio pištoljem.
+q10_14	Q10-14. Drugo
+q10_14dr	Q10-14dr. Drugo (navesti)
+q10_15	Q10-15. Jeste li ikada imali seksualni odnos ili uèinili nešto seksualno s drugi
+q10_16	Q10-16. Koliko ste imali godina kada ste prvi put imali seksualni odnos s muškar
+q10_17	Q10-17. Koji pol vas seksualno privlaèi? Seksualno me privlaèe:
+q10_18	"Q10-18. Ako vas privlaèe muškarci a ne živite s partnerom, da li biste željeli ž"
+q10_19	Q10-19. Koliko puta ste imali seks sa ženom ili djevojkom kada ona nije pristala
+q10_20	Q10-20. Koliko puta ste imali seks sa ženom ili djevojkom kada je ona bila previ
+q10_21	Q10-21. Jeste li ikada prisilili vašu djevojku ili suprugu na seks s vama?
+q10_22	Q10-22. Jeste li ikada prisilili bivšu djevojku ili bivšu ženu na seksualni odno
+q10_23	Q10-23. Jeste li ikada prisili ženu koja NIJE bila vaša žena ili djevojka na sek
+q10_24	Q10-24. Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s
+q10_25	Q10-25. Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s
+q10_26	Q10-26. Jeste li ikada uèinili nešto seksualno sa mladiæem ili muškarcem kada on
+q10_27	Q10-27. Koliko žena/djevojaka ste prisilili na seks?
+q10_28_1	Q10-28-1. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to m
+q10_28_2	Q10-28-2. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da to krši
+q10_28_3	Q10-28-3. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to n
+q10_28_4	Q10-28-4. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to p
+q10_28_5	Q10-28-5. mislite o odrasloj ženi koja radi kao prostitutka... Ne vidim problem 
+q10_28_6	Q10-28-6. mislite o odrasloj ženi koja radi kao prostitutka... To je posao kao i
+q10_29_1	Q10-29-1. mislite o ženi mlaðoj od 18 god. koja radi kao prostitutka... Mislim d
+q10_29_2	Q10-29-2. mislite o ženi mlaðoj od 18 god. koja radi kao prostitutka... Mislim d
+q10_29_3	Q10-29-3. mislite o ženi mlaðoj od 18 god. koja radi kao prostitutka... Mislim d
+q10_29_4	Q10-29-4. mislite o ženi mlaðoj od 18 god. koja radi kao prostitutka... Mislim d
+q10_29_5	Q10-29-5. mislite o ženi mlaðoj od 18 god. koja radi kao prostitutka... Ne vidim
+q10_29_6	Q10-29-6. mislite o ženi mlaðoj od 18 god. koja radi kao prostitutka... To je po
+q10_30_1	Q10-30-1. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t
+q10_30_2	Q10-30-2. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da to k
+q10_30_3	Q10-30-3. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t
+q10_30_4	Q10-30-4. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t
+q10_30_5	Q10-30-5. mislite o odraslom mušk. koji pruža seksualne usluge... Ne vidim probl
+q10_30_6	Q10-30-6. mislite o odraslom mušk. koji pruža seksualne usluge... To je posao ka
+q10_31_1	Q10-31-1. mislite o mušk. mlaðem od 18 god. koji pruža seksualne usluge... Misli
+q10_31_2	Q10-31-2. mislite o mušk. mlaðem od 18 god. koji pruža seksualne usluge... Misli
+q10_31_3	Q10-31-3. mislite o mušk. mlaðem od 18 god. koji pruža seksualne usluge... Misli
+q10_31_4	Q10-31-4. mislite o mušk. mlaðem od 18 god. koji pruža seksualne usluge... Misli
+q10_31_5	Q10-31-5. mislite o mušk. mlaðem od 18 god. koji pruža seksualne usluge... Ne vi
+q10_31_6	Q10-31-6. mislite o mušk. mlaðem od 18 god. koji pruža seksualne usluge... To je
+q10_32_1	Q10-32-1. Šta mislite o muškarcima koji plaæaju seksualne usluge? Mislim da je p
+q10_32_2	Q10-32-2. Šta mislite o muškarcima koji plaæaju seksualne usluge? Mislim da je t
+q10_32_3	Q10-32-3. Šta mislite o muškarcima koji plaæaju seksualne usluge? Mislim da je t
+q10_32_4	Q10-32-4. Šta mislite o muškarcima koji plaæaju seksualne usluge? Mislim da je t
+q10_32_5	Q10-32-5. Šta mislite o muškarcima koji plaæaju seksualne usluge? Mislim da to è
+q10_32_6	Q10-32-6. Šta mislite o muškarcima koji plaæaju seksualne usluge? Mislim da je s
+q10_33	Q10-33. Mislite li da bi trebalo biti legalno kupovati seksualne usluge?
+q10_34	Q10-34. Mislite li da bi trebalo biti legalno raditi kao osoba koja pruža seksua
+q10_35	Q10-35. vaše djevojke ili partnerice - zapoèele vezu zato što: Osigurali joj hra
+q10_36	Q10-36. vaše djevojke ili partnerice - zapoèele vezu zato što: Platili joj trošk
+q10_37	Q10-37. vaše djevojke ili partnerice - zapoèele vezu zato što: Osigurali joj smj
+q10_38	Q10-38. vaše djevojke ili partnerice - zapoèele vezu zato što: Osigurali joj koz
+q10_39	Q10-39. vaše djevojke ili partnerice - zapoèele vezu zato što: Pružili joj stvar
+q10_40	Q10-40. vaše djevojke ili partnerice - zapoèele vezu zato što: Pružili joj novac
+q10_41	Q10-41. vaše djevojke ili partnerice - zapoèele vezu zato što: Osigurali joj bil
+q10_42	Q10-42. vaše djevojke ili partnerice - zapoèele vezu zato što: Vršili popravke u
+q10_43	"Q10-43. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj hranu,"
+q10_44	Q10-44. bilo koje djevojke/žene - stupile u odnos zato što: Platili joj troškove
+q10_45	Q10-45. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj smješt
+q10_46	Q10-46. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj kozmet
+q10_47	Q10-47. bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj stvari z
+q10_48	Q10-48. bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj novac da
+q10_49	Q10-49. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj bilo š
+q10_50	Q10-50. bilo koje djevojke/žene - stupile u odnos zato što: Vršili popravke u ku
+q10_51_1	"Q10-51.: Da, sa ženom koja pruža seksualne usluge"
+q10_51_2	"Q10-51.: Da, sa muškarcem koji pruža seksualne usluge"
+q10_51_3	"Q10-51.: Da, sa transvestitom"
+q10_51_4	Q10-51.: Ne
+q10_51_5	Q10-51.: odbija - bez odgovora
+q10_52	Q10-52. Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru
+q10_53	Q10-53. Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru
+q10_54	Q10-54. Kada biste znali da je prostitutka ili osoba koja pruža seksualne usluge
+q11_1	Q11-1. U kojoj mjeri posjeæuješ bogomolju?
+q11_2	Q11-2. Koliko èesto se SAM moliš ili èitaš vjerske spise?
+q11_3	Q11-3. Imao sam mistièni doživljaj i iskustvo Božijeg postojanja
+q11_4	Q11-4. Moj èitav život je zasnovan na vjeri u Boga
+q11_5	Q11-5. Veoma se trudim da prenesem svoju religioznost na sve druge životne postu
+q11_6	Q11-6. Da li imaš nekoga od prijatelja ko je druge nacionalnosti?
+q11_7	Q11-7. Da li si u braku sa osobom iste nacionalnosti?
+q11_8	Q11-8. Da li imaš rodbine koja je druge nacije?
+q11_9	Q11-9. Veoma mi je važna moja etnièka pripadnost. (Zaokruži koliko si saglasan s
+q11_10	"Q11-10. Ljudima drugih nacija u BiH nikad više ne treba vjerovati, èak i ako se "
+q11_11	Q11-11. Druge nacije su stalno kroz istoriju smišljale planove protiv mog naroda
+q11_12	Q11-12. Najugodnije se osjeæam u onom društvu u kojem su svi pripadnici moje nac
+q11_13	Q11-13. Narod kojem pripadam je pošteniji od drugih naroda u BiH. (Zaokruži koli
+q11_14	Q11-14. Ne bi mi se svidjelo da radim na poslu zajedno sa ljudima neke druge nac
+q11_15	Q11-15. Mogao bih da budem veliki prijatelj sa ljudima drugih nacija u BiH (Zaok
+q11_16	Q11-16. Ne bih pristao da stupim u brak sa pripadnicima drugih nacija u BiH. (Za
+q11_17	Q11-17. Život u ratom zahvaæenim podruèjima (U ovom dijelu upitnika navedena je 
+q11_18	Q11-18. Privremeno napuštanje porodiène kuæe usljed ratnih zbivanja (U ovom dije
+q11_19	Q11-19. Trajno izbjeglištvo i preseljenje usljed ratnih zbivanja (U ovom dijelu 
+q11_20	Q11-20. Gubitak zaposlenja zbog etnièke pripadnosti (U ovom dijelu upitnika nave
+q11_21	Q11-21. Direktno uèestvovanje u ratnim borbama (U ovom dijelu upitnika navedena 
+q11_22	Q11-22. Ranjavanje ili zarobljavanje bliske osobe (U ovom dijelu upitnika navede
+q11_23	Q11-23. Svjedoèio seksualnom nasilju tokom ratnih zbivanja (U ovom dijelu upitni
+q11_24	Q11-24. Smrt bliske osobe (U ovom dijelu upitnika navedena je lista životnih dog
+q11_25	Q11-25. Bio sam ranjen/a ili zarobljen/a tokom rata (U ovom dijelu upitnika nave
+katgodine	"kategorije godina , do 24, 25-34, 35-49, 50-59"
+filter__	(q10_51_1 = 1) | (q10_51_2 = 1) | (q10_51_3 = 1) (FILTER)
+uknasilje	ukupno rodno nasilje 8.1.-8.5.
+ukgem	
+ukrel	
+recq3_8	
+recq3_9	
+recq3_10	
+recq3_11	
+recq3_12	
+recq3_13	
+recq3_14	
+recq3_15	
+recq3_16	
+recq3_17	
+recq3_19	
+recq3_20	
+recq3_21	
+recq3_22	"svi osim 3.18: 1 i2 u 0, a 3 u 1"
+req3_18	"1 i 2 u 1, a 3 u 0"
+sumarecgem	sabrano svih 15 ajtema
+kateggem	"niski gem je 0-5,33; srednji 5,33-10,66; visoki 10,66-15"
+UKrat	ukupno ratno iskustvo
+ukzadbrakom	ukupno zadovoljstvo brakom
+katobraz	"kategorije obrazovanja, 0 je bez škole, 1 je osnovna, 3 je srednja, 4 su više"
+katporodjaj	"12,3 je 1, 4-14 je 2"
+ukbrigaodjeci	
+REKradnistres	rekodirani stres: 0=ne; 1=djelomièno; 2=da
+kat2obraz	bez skole pripojeno osnovnoj
+ratukupno	zbirna varijabla rat ukupno
+rec1115	
+uketnicki	ukupni etnicki stavovi
+katbrigaodjetetu	"kategroije svakodnevne brige o djetetu , muskaric koji brinu (7= 1,2,3) i oni ko"
+ukhomofobija	"homofob manji skor, veci skor manja homofobija"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

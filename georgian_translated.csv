@@ -1,0 +1,401 @@
+,varname,varlabel,q_no,question_bosnian,question_eng
+7,q1_1,Q1-1. Koliko imate godina?,Q1-1.,Koliko imate godina?,How old are you?
+8,q1_2,Q1-2. Gdje trenutno živite?,Q1-2.,Gdje trenutno živite?,Where do you currently live?
+9,q1_3,Q1-3. U kom dijelu BiH živite?,Q1-3.,U kom dijelu BiH živite?,In which part of BiH do you live?
+10,q1_4,Q1-4. Koje je vaše stalno mjesto boravka?,Q1-4.,Koje je vaše stalno mjesto boravka?,What is your permanent place of residence?
+11,q1_5,Q1-5. Koji je vaš trenutni radni status? ODGOVOR U 1.5 MORA DA SE SLAŽE SA 1.15.,Q1-5.,Koji je vaš trenutni radni status? ODGOVOR U 1.5 MORA DA SE SLAŽE SA 1.15.,What is your current employment status? ANSWER IN 1.5 MUST AGREE WITH 1.15.
+12,q1_6,Q1-6. Koji je najviši stepen obrazovanja koji ste završili?,Q1-6.,Koji je najviši stepen obrazovanja koji ste završili?,What is the highest level of education you have completed?
+13,q1_7,Q1-7. Jeste li pripadnik neke vjere?,Q1-7.,Jeste li pripadnik neke vjere?,Are you a member of any religion?
+14,q1_8,Q1-8. Kojoj vjeroispovijesti pripadate?,Q1-8.,Kojoj vjeroispovijesti pripadate?,What religion do you belong to?
+15,q1_9,Q1-9. Koliko osoba živi s vama? (UKUPAN BROJ ne računajući vas) Samo ja ........,Q1-9.,Koliko osoba živi s vama? (UKUPAN BROJ ne računajući vas) Samo ja ........,How many people live with you? (TOTAL NUMBER excluding you) Only me ........
+16,q1_10_1,Q1-10.: Partnerka-supruga-partner,Q1-10.:,Partnerka-supruga-partner,Partner-wife-partner
+17,q1_10_2,Q1-10.: Vaša djeca,Q1-10.:,Vaša djeca,Your children
+18,q1_10_3,Q1-10.: Brat-braća ili sestra-sestre,Q1-10.:,Brat-braća ili sestra-sestre,Brother-brothers or sister-sisters
+19,q1_10_4,Q1-10.: Djeca vaše partnerke i drugog muškarca,Q1-10.:,Djeca vaše partnerke i drugog muškarca,The children of your partner and another man
+20,q1_10_5,Q1-10.: Roditelji,Q1-10.:,Roditelji,Parents
+21,q1_10_6,Q1-10.: Drugi članovi rodbine (vaše ili partnerove-kine),Q1-10.:,Drugi članovi rodbine (vaše ili partnerove-kine),Other relatives (yours or your partner's)
+22,q1_10_7,Q1-10.: Djeca koja nisu s vama u srodstvu,Q1-10.:,Djeca koja nisu s vama u srodstvu,Children who are not related to you
+23,q1_10_8,Q1-10.: Odrasli koji nisu s vama u srodstvu,Q1-10.:,Odrasli koji nisu s vama u srodstvu,Adults who are not related to you
+24,q1_11,Q1-11. Ko/šta je glavni izvor prihoda u vašem domu?,Q1-11.,Ko/šta je glavni izvor prihoda u vašem domu?,Who / what is the main source of income in your home?
+25,q1_11dr,Q1-11dr. Drugo (navesti),Q1-11dr.,Drugo (navesti),Other (specify)
+26,q1_12,Q1-12. Koliki je vaš lični mjesečni prihod?,Q1-12.,Koliki je vaš lični mjesečni prihod?,What is your personal monthly income?
+27,q1_13,Q1-13. Dobijate li vi ili vaša porodica dobijate neki oblik mjesečne finansijske,Q1-13.,Dobijate li vi ili vaša porodica dobijate neki oblik mjesečne finansijske,If you or your family get some form of monthly financial
+28,q1_14_1,Q1-14.: Dječji doplatak,Q1-14.:,Dječji doplatak,Child allowance
+29,q1_14_2,Q1-14.: Nadoknadu za nezaposlene,Q1-14.:,Nadoknadu za nezaposlene,Unemployment benefit
+30,q1_14_3,Q1-14.: Ostalo,Q1-14.:,Ostalo,The rest
+31,q1_15,Q1-15. Koji je vaš radni status?,Q1-15.,Koji je vaš radni status?,What is your employment status?
+32,q1_16,"Q1-16. Koliko sati sedmično obično radite posao za novac, uključujući prekovreme",Q1-16.,"Koliko sati sedmično obično radite posao za novac, uključujući prekovreme","How many hours a week do you usually do for money, including overtime"
+33,q1_17,Q1-17. Izjava o poslu: Q1-17. Moj je posao ili situacija na poslu uglavnom stabi,Q1-17.,Izjava o poslu: Q1-17. Moj je posao ili situacija na poslu uglavnom stabi,Job Statement: Q1-17. My job or situation at work is mostly stagnant
+34,q1_18,Q1-18. Izjava o poslu: Q1-18. Često sam pod stresom ili u depresiji jer nemam do,Q1-18.,Izjava o poslu: Q1-18. Često sam pod stresom ili u depresiji jer nemam do,Job Statement: Q1-18. I am often stressed or depressed because I don’t have to
+35,q1_19,Q1-19. Izjava o poslu: Q1-19. Često sam pod stresom ili u depresiji jer nemam do,Q1-19.,Izjava o poslu: Q1-19. Često sam pod stresom ili u depresiji jer nemam do,Business statement: Q1-19. I am often stressed or depressed because I don’t have to
+36,q1_20,Q1-20. Izjava o nezaposlenosti: Q1-20. Ponekad me sramota suočiti se sa vlastito,Q1-20.,Izjava o nezaposlenosti: Q1-20. Ponekad me sramota suočiti se sa vlastito,Unemployment statement: Q1-20. Sometimes I am ashamed to face my own
+37,q1_21,Q1-21. Izjava o nezaposlenosti: Q1-21. Većinu vremena sam bez posla ili tražim p,Q1-21.,Izjava o nezaposlenosti: Q1-21. Većinu vremena sam bez posla ili tražim p,Unemployment statement: Q1-21. Most of the time I am out of work or looking for p
+38,q1_22,Q1-22. Izjava o nezaposlenosti: Q1-22. Razmišljao sam o tome da napustim svoju p,Q1-22.,Izjava o nezaposlenosti: Q1-22. Razmišljao sam o tome da napustim svoju p,Unemployment statement: Q1-22. I was thinking about leaving my p
+39,q1_23,Q1-23. Izjava o nezaposlenosti: Q1-23. Ponekad pijem ili izlazim iz kuće kad ne ,Q1-23.,Izjava o nezaposlenosti: Q1-23. Ponekad pijem ili izlazim iz kuće kad ne ,Unemployment statement: Q1-23. Sometimes I drink or leave the house when I don’t
+40,q2_1,Q2-1. Ko se za vas brinuo dok ste odrastali?,Q2-1.,Ko se za vas brinuo dok ste odrastali?,Who took care of you when you were growing up?
+41,q2_1dr,Q2-1dr. Drugo (navedi),Q2-1dr.,Drugo (navedi),Other (specify)
+42,q2_2,Q2-2. Koji stepen obrazovanja je završila vaša majka?,Q2-2.,Koji stepen obrazovanja je završila vaša majka?,What level of education did your mother complete?
+43,q2_3,Q2-3. Koji stepen obrazovanja je završio vaš otac?,Q2-3.,Koji stepen obrazovanja je završio vaš otac?,What level of education did your father complete?
+44,q2_4,"Q2-4. U periodu od rođenja pa do 18 godina, koliko ste godina živjeli s vašim bi",Q2-4.,"U periodu od rođenja pa do 18 godina, koliko ste godina živjeli s vašim bi","In the period from birth to 18 years, how many years have you lived with your bi"
+45,q2_5_1,Q2-5.: Niko,Q2-5.:,Niko,No one
+46,q2_5_2,Q2-5.: Moj očuh,Q2-5.:,Moj očuh,My stepfather
+47,q2_5_3,Q2-5.: Moj ujak,Q2-5.:,Moj ujak,My uncle
+48,q2_5_4,Q2-5.: Moj deda,Q2-5.:,Moj deda,My grandfather
+49,q2_5_5,Q2-5.: Moj brat,Q2-5.:,Moj brat,My brother
+50,q2_5_6,Q2-5.: Prijatelj porodice,Q2-5.:,Prijatelj porodice,A family friend
+51,q2_5_7,"Q2-5.: Učitelj, trener ili religijski vođa",Q2-5.:,"Učitelj, trener ili religijski vođa","Teacher, coach or religious leader"
+52,q2_5_8,Q2-5.: Ostalo,Q2-5.:,Ostalo,The rest
+53,q2_5dr,Q2-5dr. Ostalo (navesti),Q2-5dr.,Ostalo (navesti),Other (specify)
+54,q2_6,Q2-6. Tvrdnje: Q2-6. Moj otac (ili drugi muškarac koji je živio s majkom) se pre,Q2-6.,Tvrdnje: Q2-6. Moj otac (ili drugi muškarac koji je živio s majkom) se pre,Claims: Q2-6. My father (or another man who lived with his mother) used to
+55,q2_7,Q2-7. Tvrdnje: Q2-7. Moja majka se prema mom ocu (ili drugom muškarcu s kojim je,Q2-7.,Tvrdnje: Q2-7. Moja majka se prema mom ocu (ili drugom muškarcu s kojim je,Claims: Q2-7. My mother is towards my father (or another man she is with
+56,q2_8,Q2-8. je li vaš otac ili neki drugi muškarac u kući: Q2-8. Kuhao hranu,Q2-8.,je li vaš otac ili neki drugi muškarac u kući: Q2-8. Kuhao hranu,is your father or some other man in the house: Q2-8. Cooked food
+57,q2_9,Q2-9. je li vaš otac ili neki drugi muškarac u kući: Q2-9. Čistio kuću,Q2-9.,je li vaš otac ili neki drugi muškarac u kući: Q2-9. Čistio kuću,is your father or some other man in the house: Q2-9. He cleaned the house
+58,q2_10,Q2-10. je li vaš otac ili neki drugi muškarac u kući: Q2-10. Prao odjeću,Q2-10.,je li vaš otac ili neki drugi muškarac u kući: Q2-10. Prao odjeću,is your father or some other man in the house: Q2-10. He washed his clothes
+59,q2_11,Q2-11. je li vaš otac ili neki drugi muškarac u kući: Q2-11. Čistio kupatilo/WC,Q2-11.,je li vaš otac ili neki drugi muškarac u kući: Q2-11. Čistio kupatilo/WC,is your father or some other man in the house: Q2-11. Clean bathroom / toilet
+60,q2_12,Q2-12. je li vaš otac ili neki drugi muškarac u kući: Q2-12. Brinuo se za vas il,Q2-12.,je li vaš otac ili neki drugi muškarac u kući: Q2-12. Brinuo se za vas il,is your father or some other man in the house: Q2-12. He took care of you or
+61,q2_13,Q2-13. Ko je u vašem domaćinstvu imao posljednju riječ o odlukama koje se tiču v,Q2-13.,Ko je u vašem domaćinstvu imao posljednju riječ o odlukama koje se tiču v,Who in your household had the last word on decisions concerning c
+62,q2_13dr,Q2-13dr. Ostali (navesti),Q2-13dr.,Ostali (navesti),Others (specify)
+63,q2_14,Q2-14. posljednju riječ o odlukama... Hranu i odjeću,Q2-14.,posljednju riječ o odlukama... Hranu i odjeću,the last word on decisions ... Food and clothes
+64,q2_14dr,Q2-14dr. Ostali (navesti),Q2-14dr.,Ostali (navesti),Others (specify)
+65,q2_15,Q2-15. posljednju riječ o odlukama... Velike investicije kao što su kupovina aut,Q2-15.,posljednju riječ o odlukama... Velike investicije kao što su kupovina aut,last word on decisions ... Big investments like buying out
+66,q2_15dr,Q2-15dr. Ostali (navesti),Q2-15dr.,Ostali (navesti),Others (specify)
+67,q2_16,"Q2-16. Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-16. Pr",Q2-16.,"Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-16. Pr","When you were a child or adolescent, did they teach you how to: Q2-16. Pr"
+68,q2_17,"Q2-17. Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-17. Či",Q2-17.,"Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-17. Či","When you were a child or adolescent, did they teach you how to: Q2-17. Chi"
+69,q2_18,"Q2-18. Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-18. Či",Q2-18.,"Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-18. Či","When you were a child or adolescent, did they teach you how to: Q2-18. Chi"
+70,q2_19,"Q2-19. Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-19. Pe",Q2-19.,"Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-19. Pe","When you were a child or adolescent, did they teach you how to: Q2-19. Pe"
+71,q2_20,"Q2-20. Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-20. Br",Q2-20.,"Kada ste bili dijete ili adolescent, jesu li vas učili kako da: Q2-20. Br","When you were a child or adolescent, did they teach you how to: Q2-20. Br"
+72,q2_21,Q2-21. Prije nego li sam napunio 18... koliko često: Q2-21. Vidio sam ili čuo sa,Q2-21.,Prije nego li sam napunio 18... koliko često: Q2-21. Vidio sam ili čuo sa,Before I turned 18 ... how often: Q2-21. I saw or heard from
+73,q2_22,Q2-22. Prije nego li sam napunio 18... koliko često: Q2-22. Neko me dirao po str,Q2-22.,Prije nego li sam napunio 18... koliko često: Q2-22. Neko me dirao po str,Before I turned 18 ... how often: Q2-22. Someone touched me on p
+74,q2_23,Q2-23. Prije nego li sam napunio 18... koliko često: Q2-23. Neko u porodici me v,Q2-23.,Prije nego li sam napunio 18... koliko često: Q2-23. Neko u porodici me v,Before I turned 18 ... how often: Q2-23. Someone in my family c
+75,q2_24,Q2-24. Prije nego li sam napunio 18... koliko često: Q2-24. Roditelji ili odrasl,Q2-24.,Prije nego li sam napunio 18... koliko često: Q2-24. Roditelji ili odrasl,Before I turned 18 ... how often: Q2-24. Parents or adults
+76,q2_25,Q2-25. Prije nego li sam napunio 18... koliko često: Q2-25. Jedan ili oboje moji,Q2-25.,Prije nego li sam napunio 18... koliko često: Q2-25. Jedan ili oboje moji,Before I turned 18 ... how often: Q2-25. One or both of mine
+77,q2_26,Q2-26. Prije nego li sam napunio 18... koliko često: Q2-26. Imao sam seksualne o,Q2-26.,Prije nego li sam napunio 18... koliko često: Q2-26. Imao sam seksualne o,Before I turned 18 ... how often: Q2-26. I had sexual o
+78,q2_27,Q2-27. Prije nego li sam napunio 18... koliko često: Q2-27. U školi me učitelj/i,Q2-27.,Prije nego li sam napunio 18... koliko često: Q2-27. U školi me učitelj/i,Before I turned 18 ... how often: Q2-27. I am a teacher at school
+79,q2_28,Q2-28. Prije nego li sam napunio 18... koliko često: Q2-28. Kod kuće su mi prije,Q2-28.,Prije nego li sam napunio 18... koliko često: Q2-28. Kod kuće su mi prije,Before I turned 18 ... how often: Q2-28. They've been home to me before
+80,q2_29,"Q2-29. Je li bilo zadirkivanja, uznemiravanja, napada u školi ili susjedstvu u k",Q2-29.,"Je li bilo zadirkivanja, uznemiravanja, napada u školi ili susjedstvu u k","Whether there was teasing, harassment, assault at the school or neighborhood in k"
+81,q2_30,Q2-30. Je li vas neko zadirkivao ili uznemiravao?,Q2-30.,Je li vas neko zadirkivao ili uznemiravao?,Has anyone teased or harassed you?
+82,q2_31,Q2-31. Jeste li vi zadirkivali i uznemiravali druge?,Q2-31.,Jeste li vi zadirkivali i uznemiravali druge?,Did you tease and harass others?
+83,q2_32,Q2-32. U mojoj školi se prema djevojkama / djevojčicama uglavnom odnosilo s pošt,Q2-32.,U mojoj školi se prema djevojkama / djevojčicama uglavnom odnosilo s pošt,"In my school, girls were mostly treated with mail"
+84,q2_33,Q2-33. U školi su me kaznili jer sam bio fizički nasilan prema vršnjacima/kinjam,Q2-33.,U školi su me kaznili jer sam bio fizički nasilan prema vršnjacima/kinjam,I was punished at school because I was physically violent towards my peers
+85,q2_34,Q2-34. Moji školski prijatelji i ja bismo dirali djevojke ili im dobacivali seks,Q2-34.,Moji školski prijatelji i ja bismo dirali djevojke ili im dobacivali seks,My school friends and I would touch girls or throw sex at them
+86,q2_35,Q2-35. Ja i grupa mojih školskih prijatelja bi s djevojkama dogovorili seks nako,Q2-35.,Ja i grupa mojih školskih prijatelja bi s djevojkama dogovorili seks nako,Me and a group of my school friends would arrange sex with the girls after
+87,q2_36,Q2-36. Ja i grupa mojih školskih prijatelja bi tukli druge suparničke grupe u šk,Q2-36.,Ja i grupa mojih školskih prijatelja bi tukli druge suparničke grupe u šk,I and a group of my school friends would beat other rival groups in the school
+88,q2_37,Q2-37. Ja i grupa mojih školskih prijatelja bi se izmjenjivali u seksualnim odno,Q2-37.,Ja i grupa mojih školskih prijatelja bi se izmjenjivali u seksualnim odno,I and a group of my school friends would take turns in sexual relations
+89,q2_38,Q2-38. Ja i grupa mojih školskih prijatelja smo bili članovi nekog sportskog klu,Q2-38.,Ja i grupa mojih školskih prijatelja smo bili članovi nekog sportskog klu,Me and a group of my school friends were members of a sports club
+90,q2_39,Q2-39. Ja i moji prijatelji smo u školi uzimali droge.,Q2-39.,Ja i moji prijatelji smo u školi uzimali droge.,My friends and I took drugs at school.
+91,q2_40,Q2-40. Moji školski prijatelji pomagali su mi da savladam probleme u životu ili ,Q2-40.,Moji školski prijatelji pomagali su mi da savladam probleme u životu ili ,My school friends helped me overcome problems in life or
+92,q3_1,"Q3-1. Kada žene rade, oduzimaju posao muškarcima.",Q3-1.,"Kada žene rade, oduzimaju posao muškarcima.","When women work, they take away jobs from men."
+93,q3_2,"Q3-2. Kada žene dobijaju prava, oduzimaju prava muškarcima.",Q3-2.,"Kada žene dobijaju prava, oduzimaju prava muškarcima.","When women get rights, they take away the rights of men."
+94,q3_3,Q3-3. Prava za žene znači da muškarci gube.,Q3-3.,Prava za žene znači da muškarci gube.,Rights for women mean that men lose.
+95,q3_4,"Q3-4. Kada je žena silovana, to obično znači da je učinila nešto neoprezno i dov",Q3-4.,"Kada je žena silovana, to obično znači da je učinila nešto neoprezno i dov","When a woman is raped, it usually means that she did something careless and dov"
+96,q3_5,"Q3-5. U nekim slučajevima silovanja, žene su željele da se to dogodi.",Q3-5.,"U nekim slučajevima silovanja, žene su željele da se to dogodi.","In some rape cases, women wanted it to happen."
+97,q3_6,"Q3-6. Ako se žena fizički ne opire, to se ne može nazvati silovanjem.",Q3-6.,"Ako se žena fizički ne opire, to se ne može nazvati silovanjem.","If a woman does not physically resist, it cannot be called rape."
+98,q3_7,Q3-7. U svakom slučaju silovanja trebalo bi ispitati je li žrtva promiskuitetna ,Q3-7.,U svakom slučaju silovanja trebalo bi ispitati je li žrtva promiskuitetna ,"In any case of rape, it should be examined whether the victim is promiscuous"
+99,q3_8,Q3-8. Najvažnija uloga žene je da se brine o kući i da kuha za svoju porodicu.,Q3-8.,Najvažnija uloga žene je da se brine o kući i da kuha za svoju porodicu.,The most important role of a woman is to take care of the house and to cook for her family.
+100,q3_9,Q3-9. Muškarcima treba seks više nego ženama.,Q3-9.,Muškarcima treba seks više nego ženama.,Men need sex more than women.
+101,q3_10,"Q3-10. Muškarci ne pričaju o seksu, oni to rade.",Q3-10.,"Muškarci ne pričaju o seksu, oni to rade.","Men don’t talk about sex, they do."
+102,q3_11,Q3-11. Postoje situacije u kojima žena zaslužuje biti istučena.,Q3-11.,Postoje situacije u kojima žena zaslužuje biti istučena.,There are situations where a woman deserves to be beaten.
+103,q3_12,"Q3-12. Mijenjanje pelena, kupanje djece, i hranjenje djece su dužnosti majke.",Q3-12.,"Mijenjanje pelena, kupanje djece, i hranjenje djece su dužnosti majke.","Changing diapers, bathing children, and feeding children are the duties of a mother."
+104,q3_13,Q3-13. Žena bi trebala biti ona koja se brine da ne zatrudni.,Q3-13.,Žena bi trebala biti ona koja se brine da ne zatrudni.,A woman should be the one who takes care not to get pregnant.
+105,q3_14,Q3-14. Muškarac bi trebao imati posljednju riječ o odlukama kod kuće.,Q3-14.,Muškarac bi trebao imati posljednju riječ o odlukama kod kuće.,A man should have the last word on decisions at home.
+106,q3_15,Q3-15. Muškarci su uvijek spremni na seks.,Q3-15.,Muškarci su uvijek spremni na seks.,Men are always ready for sex.
+107,q3_16,Q3-16. Žena bi trebala tolerisati nasilje kako bi održala porodicu na okupu.,Q3-16.,Žena bi trebala tolerisati nasilje kako bi održala porodicu na okupu.,A woman should tolerate violence in order to keep the family together.
+108,q3_17,Q3-17. Bio bih bijesan-uvrijeđen da moja žena ili djevojka zatraži da koristim p,Q3-17.,Bio bih bijesan-uvrijeđen da moja žena ili djevojka zatraži da koristim p,I would be furious-offended if my wife or girlfriend asked me to use p
+109,q3_18,Q3-18. Muškarac i žena bi trebali zajedno odlučiti koju vrstu kontracepcije će k,Q3-18.,Muškarac i žena bi trebali zajedno odlučiti koju vrstu kontracepcije će k,A man and a woman should decide together what type of contraception will k
+110,q3_19,Q3-19. Nikada ne bih imao prijatelja-icu koji je homoseksualac-lezbejka.,Q3-19.,Nikada ne bih imao prijatelja-icu koji je homoseksualac-lezbejka.,I would never have a gay friend who is a gay lesbian.
+111,q3_20,"Q3-20. Ako me neko uvrijedi, braniću svoj ugled i silom ako bude trebalo.",Q3-20.,"Ako me neko uvrijedi, braniću svoj ugled i silom ako bude trebalo.","If someone insults me, I will defend my reputation by force if necessary."
+112,q3_21,Q3-21. Biti muškarac znači da moraš biti čvrst.,Q3-21.,Biti muškarac znači da moraš biti čvrst.,Being a man means you have to be strong.
+113,q3_22,Q3-22. Muškarcima bi trebalo biti neprijatno ako nemaju erekciju za vrijeme seks,Q3-22.,Muškarcima bi trebalo biti neprijatno ako nemaju erekciju za vrijeme seks,Men should be uncomfortable if they do not have an erection during sex
+114,q3_23,Q3-23. Ravnopravnost između muškaraca i žena je već predaleko otišla.,Q3-23.,Ravnopravnost između muškaraca i žena je već predaleko otišla.,Equality between men and women has already gone too far.
+115,q3_24,Q3-24. Ravnopravnost između muškaraca i žena je već najvećim dijelom postignuta.,Q3-24.,Ravnopravnost između muškaraca i žena je već najvećim dijelom postignuta.,Equality between men and women has already been largely achieved.
+116,q3_25,Q3-25. Jeste li vi za ili protiv kvota koje garantuju određeni udio žena u insti,Q3-25.,Jeste li vi za ili protiv kvota koje garantuju određeni udio žena u insti,Are you for or against the quotas that guarantee a certain share of women in the insti
+117,q3_26,Q3-26. Jeste li vi za ili protiv takvog sistema kvota koji garantuje određeni ud,Q3-26.,Jeste li vi za ili protiv takvog sistema kvota koji garantuje određeni ud,Are you for or against such a quota system that guarantees a certain limb
+118,q3_27,Q3-27. Jeste li vi za ili protiv kvota koje garantuju mjesta za žene na upravlja,Q3-27.,Jeste li vi za ili protiv kvota koje garantuju mjesta za žene na upravlja,Are you for or against the quotas that guarantee places for women to manage
+119,q3_28,Q3-28. Jeste li vi za ili protiv takvih zakona koji promovišu jednake plate za m,Q3-28.,Jeste li vi za ili protiv takvih zakona koji promovišu jednake plate za m,Are you for or against such laws that promote equal pay for m
+120,q4_1,Q4-1. Neprijatno mi je kada sam u društvu homoseksualnih muškaraca.,Q4-1.,Neprijatno mi je kada sam u društvu homoseksualnih muškaraca.,I feel uncomfortable when I am in the company of gay men.
+121,q4_2,Q4-2. Homoseksualnost je prirodna i normalna.,Q4-2.,Homoseksualnost je prirodna i normalna.,Homosexuality is natural and normal.
+122,q4_3,Q4-3. Homoseksualnim muškarcima ne bi smjelo biti dozvoljeno da rade s djecom.,Q4-3.,Homoseksualnim muškarcima ne bi smjelo biti dozvoljeno da rade s djecom.,Homosexual men should not be allowed to work with children.
+123,q4_4,Q4-4. Homoseksualnim muškarcima ne bi smjelo biti dozvoljeno da usvajaju djecu.,Q4-4.,Homoseksualnim muškarcima ne bi smjelo biti dozvoljeno da usvajaju djecu.,Homosexual men should not be allowed to adopt children.
+124,q4_5,Q4-5. Homoseksualnim parovima trebalo bi biti dozvoljeno da se vjenčaju jednako ,Q4-5.,Homoseksualnim parovima trebalo bi biti dozvoljeno da se vjenčaju jednako ,Homosexual couples should be allowed to marry equally
+125,q4_6,Q4-6. Bilo bi me sram da imam sina koji je homoseksualac.,Q4-6.,Bilo bi me sram da imam sina koji je homoseksualac.,I would be ashamed to have a son who is gay.
+126,q4_7,Q4-7. Kada mi se neprestano “nabacuje” ili flertuje sa mnom. (u kojoj od naveden,Q4-7.,Kada mi se neprestano “nabacuje” ili flertuje sa mnom. (u kojoj od naveden,"When he constantly ""pushes"" me or flirts with me. (in which of the above"
+127,q4_8,Q4-8. Kad neprestano bulji u mene. (u kojoj od navedenih situacija bi bilo oprav,Q4-8.,Kad neprestano bulji u mene. (u kojoj od navedenih situacija bi bilo oprav,When he is constantly staring at me. (in which of the following situations would be correct
+128,q4_9,Q4-9. Kada se ljubi s drugim muškarcem u javnosti. (u kojoj od navedenih situaci,Q4-9.,Kada se ljubi s drugim muškarcem u javnosti. (u kojoj od navedenih situaci,When she kisses another man in public. (in which of the following situations
+129,q4_10,Q4-10. Kada se ponaša ženskasto. (u kojoj od navedenih situacija bi bilo opravda,Q4-10.,Kada se ponaša ženskasto. (u kojoj od navedenih situacija bi bilo opravda,When she behaves femininely. (in which of the following situations would be justified
+130,q5_1,Q5-1. Imate li stalnu partnerku/partnera? (pod partnerkom/partnerom smatramo dje,Q5-1.,Imate li stalnu partnerku/partnera? (pod partnerkom/partnerom smatramo dje,Do you have a permanent partner? (by partner we mean children
+131,q5_2,Q5-2. Koliko godina ima ona/on?,Q5-2.,Koliko godina ima ona/on?,How old is he / she?
+132,q5_3,Q5-3. Živi li vaša partnerka/partner s vama?,Q5-3.,Živi li vaša partnerka/partner s vama?,Does your partner live with you?
+133,q5_4_1,živite s partnerkom-om godina:,živite,s partnerkom-om godina:,with partner years:
+134,q5_4_2,živite s partnerkom-om mjeseci:,živite,s partnerkom-om mjeseci:,with partner months:
+135,q5_5,Q5-5. Jeste li vi i vaša partnerka/partner istog nivoa obrazovanja?,Q5-5.,Jeste li vi i vaša partnerka/partner istog nivoa obrazovanja?,Are you and your partner at the same level of education?
+136,q5_6,Q5-6. Koji je radni status vaše partnerke/partnera?,Q5-6.,Koji je radni status vaše partnerke/partnera?,What is the employment status of your partner?
+137,q5_7,Q5-7. Zarađujete li vi i ona (ili on) istu količinu novca?,Q5-7.,Zarađujete li vi i ona (ili on) istu količinu novca?,Do you and she (or he) make the same amount of money?
+138,q5_8,Q5-8. Ko ima posljednju riječ u donošenju odluka... Hranu i odjeću,Q5-8.,Ko ima posljednju riječ u donošenju odluka... Hranu i odjeću,Who has the last word in making decisions ... Food and clothes
+139,q5_9,Q5-9. Ko ima posljednju riječ u donošenju odluka... Velike investicije kao što s,Q5-9.,Ko ima posljednju riječ u donošenju odluka... Velike investicije kao što s,Who has the last word in decision making ... Big investments like s
+140,q5_10,Q5-10. Ko u vašoj obitelji obično ima zadnju riječ što se tiče provođenja vremen,Q5-10.,Ko u vašoj obitelji obično ima zadnju riječ što se tiče provođenja vremen,Who in your family usually has the last word when it comes to spending time
+141,q5_11_1,Q5-11.: Pomoć od našeg djeteta-djece.,Q5-11.:,Pomoć od našeg djeteta-djece.,Help from our child-children.
+142,q5_11_2,"Q5-11.: Plaćena pomoć (čistačica, dadilja, itd.).",Q5-11.:,"Plaćena pomoć (čistačica, dadilja, itd.).","Paid help (cleaner, nanny, etc.)."
+143,q5_11_3,"Q5-11.: Pomoć od drugih (porodica, rodbina)",Q5-11.:,"Pomoć od drugih (porodica, rodbina)","Help from others (family, relatives)"
+144,q5_11_4,Q5-11.: Nemamo pomoć,Q5-11.:,Nemamo pomoć,We have no help
+145,q5_12,Q5-12. kako vi i vaša partnerka/partner dijelite sljedeće poslove: Pranje odjeće,Q5-12.,kako vi i vaša partnerka/partner dijelite sljedeće poslove: Pranje odjeće,how you and your partner share the following tasks: Washing clothes
+146,q5_13,Q5-13. kako vi i vaša partnerka/partner dijelite sljedeće poslove: Popravke u ku,Q5-13.,kako vi i vaša partnerka/partner dijelite sljedeće poslove: Popravke u ku,how you and your partner share the following tasks: Repairs in the house
+147,q5_14,Q5-14. kako vi i vaša partnerka/partner dijelite sljedeće poslove: Kupovanje hra,Q5-14.,kako vi i vaša partnerka/partner dijelite sljedeće poslove: Kupovanje hra,how you and your partner share the following tasks: Buying food
+148,q5_15,Q5-15. kako vi i vaša partnerka/partner dijelite sljedeće poslove: Čišćenje kuće,Q5-15.,kako vi i vaša partnerka/partner dijelite sljedeće poslove: Čišćenje kuće,how you and your partner share the following tasks: Cleaning the house
+149,q5_16,Q5-16. kako vi i vaša partnerka/partner dijelite sljedeće poslove: Pripremanje h,Q5-16.,kako vi i vaša partnerka/partner dijelite sljedeće poslove: Pripremanje h,how you and your partner share the following tasks: Preparing h
+150,q5_17,Q5-17. kako vi i vaša partnerka/partner dijelite sljedeće poslove: Plaćanje raču,Q5-17.,kako vi i vaša partnerka/partner dijelite sljedeće poslove: Plaćanje raču,how you and your partner share the following tasks: Paying bills
+151,q5_18,Q5-18. Šta mislite o gore navedenoj podjeli poslova?,Q5-18.,Šta mislite o gore navedenoj podjeli poslova?,What do you think about the above division of labor?
+152,q5_19,Q5-19. Jeste li zadovoljni ovakvom podjelom?,Q5-19.,Jeste li zadovoljni ovakvom podjelom?,Are you happy with this division?
+153,q5_20,Q5-20. Mislite li da je vaša partnerka/partner zadovoljna/zadovoljan takvom podj,Q5-20.,Mislite li da je vaša partnerka/partner zadovoljna/zadovoljan takvom podj,Do you think that your partner is satisfied with such a business?
+154,q5_21,Q5-21. Koliko je jasna podjela posla izmedju partnera u vašem domaćinstvu?,Q5-21.,Koliko je jasna podjela posla izmedju partnera u vašem domaćinstvu?,How clear is the division of labor between the partners in your household?
+155,q5_22,"Q5-22. Jeste li vi lično, ili oboje zatražili pomoć, na primjer, porodično savje",Q5-22.,"Jeste li vi lično, ili oboje zatražili pomoć, na primjer, porodično savje","Have you personally, or both, asked for help, for example, family advice"
+156,q5_23,Q5-23. Kako biste okarakterisali vaš zajednički život s partnerkom/partnerom u c,Q5-23.,Kako biste okarakterisali vaš zajednički život s partnerkom/partnerom u c,How would you characterize your life together with your partner in c
+157,q5_24,Q5-24. Kada ste zadnji put razgovarali s vašom partnerkom/partnerom o problemima,Q5-24.,Kada ste zadnji put razgovarali s vašom partnerkom/partnerom o problemima,When was the last time you talked to your partner about problems
+158,q5_25,Q5-25. Kako biste opisali seksualnu vezu sa vašom partnerkom/partnerom?,Q5-25.,Kako biste opisali seksualnu vezu sa vašom partnerkom/partnerom?,How would you describe your sexual relationship with your partner?
+159,q5_26,Q5-26. Koliko često ste koristili prezervative (kondome) tokom seksa u posljednj,Q5-26.,Koliko često ste koristili prezervative (kondome) tokom seksa u posljednj,How often have you used condoms during sex in the last
+160,q5_27,"Q5-27. Uključujući stalne i povremene partnerke/partnere, s koliko ste partnerki",Q5-27.,"Uključujući stalne i povremene partnerke/partnere, s koliko ste partnerki","Including permanent and occasional partners, how many partners you are with"
+161,q5_28,"Q5-28. Izuzimajući vašu sadašnju vezu, sa koliko ste žena bili u braku/zajedno ž",Q5-28.,"Izuzimajući vašu sadašnju vezu, sa koliko ste žena bili u braku/zajedno ž","Excluding your current relationship, how many women have you been married to together?"
+162,q5_29,"Q5-29. Izuzimajući vašu sadašnju vezu, sa koliko ste muškaraca živjeli s kojima ",Q5-29.,"Izuzimajući vašu sadašnju vezu, sa koliko ste muškaraca živjeli s kojima ","Excluding your current relationship, how many men have you lived with"
+163,q5_30,Q5-30. Kada ste zadnji put imali seksualni odnos s kim je to bilo?,Q5-30.,Kada ste zadnji put imali seksualni odnos s kim je to bilo?,When was the last time you had sex with anyone?
+164,q5_30dr,Q5-30dr. Ostalo (navesti),Q5-30dr.,Ostalo (navesti),Other (specify)
+165,q5_32,Q5-32. Veoma sam zadovoljan svojim brakom,Q5-32.,Veoma sam zadovoljan svojim brakom,I am very happy with my marriage
+166,q5_33,Q5-33. Smatram da moj brak funkcioniše bolje od mnogih drugih.,Q5-33.,Smatram da moj brak funkcioniše bolje od mnogih drugih.,I find that my marriage works better than many others.
+167,q5_34,Q5-34. Kada bih se opet ženio izabrao bih istog partnera,Q5-34.,Kada bih se opet ženio izabrao bih istog partnera,When I would get married again I would choose the same partner
+168,q5_35,Q5-35. U mom braku dominiraju lijepi trenuci.,Q5-35.,U mom braku dominiraju lijepi trenuci.,My marriage is dominated by beautiful moments.
+169,q5_36,Q5-36. Moj brak je oaza mira i sreće,Q5-36.,Moj brak je oaza mira i sreće,My marriage is an oasis of peace and happiness
+170,q6_1,Q6-1. Postoji li u vašoj zemlji zakon koji garantuje odmor za očeve kada se dije,Q6-1.,Postoji li u vašoj zemlji zakon koji garantuje odmor za očeve kada se dije,Is there a law in your country that guarantees paternity leave when sharing
+171,q6_2,"Q6-2. Ako da, koliko dugo traje?",Q6-2.,"Ako da, koliko dugo traje?","If so, how long does it take?"
+172,q6_3,Q6-3. Smatrate li da bi trudničko bolovanje za očeve trebalo biti zagarantovano ,Q6-3.,Smatrate li da bi trudničko bolovanje za očeve trebalo biti zagarantovano ,Do you think that maternity leave for fathers should be guaranteed
+173,q6_4,Q6-4. Koliko dugo traje trudničko bolovanje majki kada rode djecu?,Q6-4.,Koliko dugo traje trudničko bolovanje majki kada rode djecu?,How long does a mother's maternity leave last when they give birth to children?
+174,q6_5,Q6-5. Smatrate li da bi trudničko bolovanje za majke trebalo biti zagarantovano ,Q6-5.,Smatrate li da bi trudničko bolovanje za majke trebalo biti zagarantovano ,Do you think that maternity leave for mothers should be guaranteed
+175,q6_6,Q6-6. Smatrate li da zakoni koji u vašoj zemlji regulišu razvode/ rastave daju p,Q6-6.,Smatrate li da zakoni koji u vašoj zemlji regulišu razvode/ rastave daju p,Do you think that the laws that regulate divorce in your country give p
+176,q6_7,"Q6-7. U slučaju razvoda, ko ima veće šanse da dobije starateljstvo nad djetetom ",Q6-7.,"U slučaju razvoda, ko ima veće šanse da dobije starateljstvo nad djetetom ","In case of divorce, who has a better chance of getting custody of the child"
+177,q6_8,Q6-8. Je li zajedničko starateljstvo često u vašoj zemlji?,Q6-8.,Je li zajedničko starateljstvo često u vašoj zemlji?,Is shared custody common in your country?
+178,q6_9,Q6-9. Smatrate li da su zakoni vezani za podršku za dijete (alimentaciju) u vašo,Q6-9.,Smatrate li da su zakoni vezani za podršku za dijete (alimentaciju) u vašo,Do you think the laws are related to child support (alimony) in yours
+179,q6_10,Q6-10. Postoje li zakoni u vašoj zemlji koji se tiču utvrđivanja očinstva u sluč,Q6-10.,Postoje li zakoni u vašoj zemlji koji se tiču utvrđivanja očinstva u sluč,Are there any laws in your country regarding establishing paternity in a case
+180,q6_11_1,Q6-11.: Zahtjeva DNK test,Q6-11.:,Zahtjeva DNK test,Requires DNA test
+181,q6_11_2,Q6-11.: Službena registracija kao oca djeteta,Q6-11.:,Službena registracija kao oca djeteta,Official registration as the father of the child
+182,q6_11_3,Q6-11.: Zahtjev za alimentacijom,Q6-11.:,Zahtjev za alimentacijom,Alimony claim
+183,q6_11_4,Q6-11.: Ne znam,Q6-11.:,Ne znam,I do not know
+184,q6_12,Q6-12. Šta mislite o zakonu koji se odnosi na utvrđivanje očinstva?,Q6-12.,Šta mislite o zakonu koji se odnosi na utvrđivanje očinstva?,What do you think about the law related to establishing paternity?
+185,q6_13,Q6-13. Postoji li u vašoj zemlji zakon koji reguliše nasilje nad ženama?,Q6-13.,Postoji li u vašoj zemlji zakon koji reguliše nasilje nad ženama?,Is there a law in your country that regulates violence against women?
+186,q6_14,Q6-14. Previše olakšava ženi da optuži muškarca za nasilje. (Šta mislite o zakon,Q6-14.,Previše olakšava ženi da optuži muškarca za nasilje. (Šta mislite o zakon,It makes it too easy for a woman to accuse a man of violence. (What do you think about the law
+187,q6_15,Q6-15. Zakon je prestrog. (Šta mislite o zakonu koji reguliše nasilje nad ženama,Q6-15.,Zakon je prestrog. (Šta mislite o zakonu koji reguliše nasilje nad ženama,The law is too strict. (What do you think about the law that regulates violence against women
+188,q6_16,Q6-16. Zakon nije dovoljno strog. (Šta mislite o zakonu koji reguliše nasilje na,Q6-16.,Zakon nije dovoljno strog. (Šta mislite o zakonu koji reguliše nasilje na,The law is not strict enough. (What do you think about the law that regulates violence on
+189,q6_17,Q6-17. Ne štite dovoljno žrtvu nasilja. (Šta mislite o zakonu koji reguliše nasi,Q6-17.,Ne štite dovoljno žrtvu nasilja. (Šta mislite o zakonu koji reguliše nasi,They do not protect the victim of violence enough. (What do you think about the law that regulates ours
+190,q6_18,Q6-18. Ženu izlaže dodatnoj stigmatizaciji i bolu. (Šta mislite o zakonu koji re,Q6-18.,Ženu izlaže dodatnoj stigmatizaciji i bolu. (Šta mislite o zakonu koji re,It exposes the woman to additional stigmatization and pain. (What do you think about the law that re
+191,q6_19,Q6-19. Postoje li u vašoj državi zakoni/politike koje štite homoseksualne osobe ,Q6-19.,Postoje li u vašoj državi zakoni/politike koje štite homoseksualne osobe ,Are there laws / policies in your country that protect homosexuals?
+192,q6_20,Q6-20. Što mislite o takvim zakonima/politikama?,Q6-20.,Što mislite o takvim zakonima/politikama?,What do you think about such laws / policies?
+193,q6_21,Q6-21. Postoje li u vašoj zemlji zakoni/politike koje omogućavaju registrovanu z,Q6-21.,Postoje li u vašoj zemlji zakoni/politike koje omogućavaju registrovanu z,Are there any laws / policies in your country that allow registered z
+194,q6_22,Q6-22. Što mislite o tim zakonima/politikama?,Q6-22.,Što mislite o tim zakonima/politikama?,What do you think about these laws / policies?
+195,q6_23,Q6-23. Jeste li ikada čuli za bilo kakve kampanje u vašem okruženju koje se bave,Q6-23.,Jeste li ikada čuli za bilo kakve kampanje u vašem okruženju koje se bave,Have you ever heard of any campaigns in your environment that deal with it
+196,q6_24,Q6-24. Jeste li ikada vidjeli reklamu ili javnu obavijest na televiziji o muškom,Q6-24.,Jeste li ikada vidjeli reklamu ili javnu obavijest na televiziji o muškom,Have you ever seen an advertisement or public announcement on television about a man
+197,q6_25,Q6-25. Jeste li ikada učestvovali u nekim aktivnostima u vašoj zajednici koje su,Q6-25.,Jeste li ikada učestvovali u nekim aktivnostima u vašoj zajednici koje su,Have you ever participated in any activities in your community that are
+198,q6_26,Q6-26. Jeste li čuli za bilo kakve kampanje ili aktivnosti u vašem okruženju koj,Q6-26.,Jeste li čuli za bilo kakve kampanje ili aktivnosti u vašem okruženju koj,Have you heard of any campaigns or activities in your environment that
+199,q6_27,Q6-27. Jeste li učestvovali u aktivnostima u vašoj zajednici ili radnom mjestu k,Q6-27.,Jeste li učestvovali u aktivnostima u vašoj zajednici ili radnom mjestu k,Have you participated in activities in your community or workplace k
+200,q6_28,Q6-28. Jeste li ikada čuli za bilo kakvu kampanju u vašoj zajednici ili radnom m,Q6-28.,Jeste li ikada čuli za bilo kakvu kampanju u vašoj zajednici ili radnom m,Have you ever heard of any campaign in your community or working m
+201,q7_1,Q7-1. Imate li BIOLOŠKO dijete ili djecu?,Q7-1.,Imate li BIOLOŠKO dijete ili djecu?,Do you have a BIOLOGICAL child or children?
+202,q7_2,Q7-2. Koliko biološke djece imate?,Q7-2.,Koliko biološke djece imate?,How many biological children do you have?
+203,q7_3,Q7-3. Živi li bilo koje od vaše biološke djece U VAŠEM DOMAĆINSTVU?,Q7-3.,Živi li bilo koje od vaše biološke djece U VAŠEM DOMAĆINSTVU?,Do any of your biological children live in YOUR HOUSEHOLD?
+204,q7_4,Q7-4. Koliko ukupno djece (biloške i ne-biološke) živi s vama U VAŠEM DOMAĆINSTV,Q7-4.,Koliko ukupno djece (biloške i ne-biološke) živi s vama U VAŠEM DOMAĆINSTV,How many total children (biological and non-biological) live with you IN YOUR HOUSEHOLD
+205,q7_5,Q7-5. Ko u vašoj porodici obično donosi važne odluke vezane uz zdravlje i liječe,Q7-5.,Ko u vašoj porodici obično donosi važne odluke vezane uz zdravlje i liječe,Who in your family usually makes important health decisions and treats
+206,q7_6,Q7-6. Ko u vašoj porodici obično donosi važne odluke vezane uz zdravlje i liječe,Q7-6.,Ko u vašoj porodici obično donosi važne odluke vezane uz zdravlje i liječe,Who in your family usually makes important health decisions and treats
+207,q7_7,Q7-7. Gdje je rođeno vaše posljednje dijete,Q7-7.,Gdje je rođeno vaše posljednje dijete,Where your last child was born
+208,q7_8,Q7-8. Gdje ste bili kada se rodilo vaše posljednje dijete?,Q7-8.,Gdje ste bili kada se rodilo vaše posljednje dijete?,Where were you when your last child was born?
+209,q7_8dr,Q7-8dr. Drugo (navesti),Q7-8dr.,Drugo (navesti),Other (specify)
+210,q7_9,"Q7-9. Zadnji put kada ste imali ili usvojili dijete, je li to bila vaša želja il",Q7-9.,"Zadnji put kada ste imali ili usvojili dijete, je li to bila vaša želja il","The last time you had or adopted a child, was that your wish or"
+211,q7_10,"Q7-10. Jeste li zadnji put kada ste imali dijete, osim slobodnih dana, uzeli odm",Q7-10.,"Jeste li zadnji put kada ste imali dijete, osim slobodnih dana, uzeli odm","Did you take a vacation the last time you had a child, apart from days off"
+212,q7_10dr,Q7-10dr. Drugo (navesti),Q7-10dr.,Drugo (navesti),Other (specify)
+213,q7_10pla,Q7-10pla. unesite dane plaćenog odsustva,Q7-10pla.,unesite dane plaćenog odsustva,enter the days of paid leave
+214,q7_10nep,Q7-10nep. unesite dane neplaćenog odsustva,Q7-10nep.,unesite dane neplaćenog odsustva,enter unpaid leave days
+215,q7_11,"Q7-11. Ako niste uzeli odmor, zašto niste?",Q7-11.,"Ako niste uzeli odmor, zašto niste?","If you haven’t taken a vacation, why haven’t you?"
+216,q7_11dr,Q7-11dr. Drugo (navesti),Q7-11dr.,Drugo (navesti),Other (specify)
+217,q7_12,"Q7-12. Ako ste bili na trudničkom odsustvu, kada ste bili kući s djetetom jeste ",Q7-12.,"Ako ste bili na trudničkom odsustvu, kada ste bili kući s djetetom jeste ","If you were on maternity leave, when you were home with the baby it was"
+218,q7_12dr,Q7-12dr. Drugo (navesti),Q7-12dr.,Drugo (navesti),Other (specify)
+219,q7_13,Q7-13. Smatrate li da je ovaj period koji ste proveli u kući s djetetom kasnije ,Q7-13.,Smatrate li da je ovaj period koji ste proveli u kući s djetetom kasnije ,Do you feel that this period you spent at home with the child is later
+220,q7_14,Q7-14. Koliko dana/sedmica/mjeseci odmora (plaćenog ili neplaćenog) je vaša part,Q7-14.,Koliko dana/sedmica/mjeseci odmora (plaćenog ili neplaćenog) je vaša part,How many days / weeks / months of vacation (paid or unpaid) is your part
+221,q7_14dr,Q7-14dr. Drugo (navesti),Q7-14dr.,Drugo (navesti),Other (specify)
+222,q7_14pla,Q7-14pla. unesite dane plaćenog odmora partnerke (partnera),Q7-14pla.,unesite dane plaćenog odmora partnerke (partnera),enter the days of paid leave of the partner (partners)
+223,q7_14nep,Q7-14nep. unesite dane neplaćenog odmora partnerke (partnera),Q7-14nep.,unesite dane neplaćenog odmora partnerke (partnera),enter unpaid vacation days of partner (s)
+224,q7_15,Q7-15. Jeste li pratili majku(e) svojeg djeteta (djece) na kontrole za vrijeme p,Q7-15.,Jeste li pratili majku(e) svojeg djeteta (djece) na kontrole za vrijeme p,Did you accompany the mother (s) of your child (ren) to checkups during p
+225,q7_16,Q7-16. Zbog svog posla provodim premalo vremena sa svojom djecom.,Q7-16.,Zbog svog posla provodim premalo vremena sa svojom djecom.,"Because of my job, I spend too little time with my children."
+226,q7_17,Q7-17. Radio bih manje ako bi to značilo da bih mogao više vremena provoditi s d,Q7-17.,Radio bih manje ako bi to značilo da bih mogao više vremena provoditi s d,I would work less if it meant I could spend more time with d
+227,q7_18,"Q7-18. Kada se sve uzme u obzir, imam najveću odgovornost što se tiče zarađivanj",Q7-18.,"Kada se sve uzme u obzir, imam najveću odgovornost što se tiče zarađivanj","All things considered, I have the biggest responsibility when it comes to making money"
+228,q7_19,Q7-19. Bojim se da bih provodio dosta manje vremena s djecom kada bi se veza s p,Q7-19.,Bojim se da bih provodio dosta manje vremena s djecom kada bi se veza s p,I’m afraid I would spend a lot less time with the kids when the connection with p
+229,q7_20,Q7-20. Moja uloga u brizi oko djeteta je najčešće kao pomagač.,Q7-20.,Moja uloga u brizi oko djeteta je najčešće kao pomagač.,My role in caring for a child is most often as a helper.
+230,q7_21,Q7-21. Svakodnevna briga o djetetu.,Q7-21.,Svakodnevna briga o djetetu.,Daily child care.
+231,q7_22,Q7-22. Ostajanje kući s djetetom kada je bolesno.,Q7-22.,Ostajanje kući s djetetom kada je bolesno.,Staying home with a child when he is sick.
+232,q7_23,Q7-23. Odlazak po dijete u školu ili vrtić.,Q7-23.,Odlazak po dijete u školu ili vrtić.,Going to pick up a child at school or kindergarten.
+233,q7_24,Q7-24. Odvođenje djeteta na slobodne aktivnosti.,Q7-24.,Odvođenje djeteta na slobodne aktivnosti.,Taking the child to leisure activities.
+234,q7_25,Q7-25. djeca 0-5 god. starosti koja žive s vama - Koliko često se igrate s djeco,Q7-25.,djeca 0-5 god. starosti koja žive s vama - Koliko često se igrate s djeco,children 0-5 years ages living with you - How often you play with children
+235,q7_26,Q7-26. djeca 0-5 god. starosti koja žive s vama - Koliko često kuhate ili pripre,Q7-26.,djeca 0-5 god. starosti koja žive s vama - Koliko često kuhate ili pripre,children 0-5 years ages living with you - How often you cook or prepare
+236,q7_27,Q7-27. djeca 0-5 god. starosti koja žive s vama - Koliko često mijenjate pelene ,Q7-27.,djeca 0-5 god. starosti koja žive s vama - Koliko često mijenjate pelene ,children 0-5 years ages living with you - How often you change diapers
+237,q7_28,Q7-28. djeca 0-5 god. starosti koja žive s vama - Koliko često kupate djecu?,Q7-28.,djeca 0-5 god. starosti koja žive s vama - Koliko često kupate djecu?,children 0-5 years ages living with you - How often do you bathe children?
+238,q7_29,Q7-29. djeca 6-13 god. starosti koja žive s vama - Koliko često se igrate s djec,Q7-29.,djeca 6-13 god. starosti koja žive s vama - Koliko često se igrate s djec,children 6-13 years ages living with you - How often do you play with children
+239,q7_30,Q7-30. djeca 6-13 god. starosti koja žive s vama - Koliko često razgovarate o li,Q7-30.,djeca 6-13 god. starosti koja žive s vama - Koliko često razgovarate o li,children 6-13 years old age living with you - How often do you talk about whether
+240,q7_31,Q7-31. djeca 6-13 god. starosti koja žive s vama - Koliko često s djecom fizički,Q7-31.,djeca 6-13 god. starosti koja žive s vama - Koliko često s djecom fizički,children 6-13 years ages living with you - How often with children physically
+241,q7_32,Q7-32. djeca 6-13 god. starosti koja žive s vama - Koliko često im pomažete sa š,Q7-32.,djeca 6-13 god. starosti koja žive s vama - Koliko često im pomažete sa š,children 6-13 years old age living with you - How often do you help them with sh
+242,q7_33,Q7-33. djeca 6-13 god. starosti koja žive s vama - Koliko često kuhate ili pripr,Q7-33.,djeca 6-13 god. starosti koja žive s vama - Koliko često kuhate ili pripr,children 6-13 years ages living with you - How often do you cook or prep
+243,q7_34,Q7-34. djeca 6-13 god. starosti koja žive s vama - Koliko često perete odjeću za,Q7-34.,djeca 6-13 god. starosti koja žive s vama - Koliko često perete odjeću za,children 6-13 years ages living with you - How often do you wash clothes for
+244,q7_35,Q7-35. Koliko dana u sedmici viđate vaše biološko dijete koje ne živi s vama?,Q7-35.,Koliko dana u sedmici viđate vaše biološko dijete koje ne živi s vama?,How many days a week do you see your biological child not living with you?
+245,q7_36,Q7-36. Uzdržavate li finansijski vaše biološko dijete/djecu koja ne žive s vama?,Q7-36.,Uzdržavate li finansijski vaše biološko dijete/djecu koja ne žive s vama?,Do you financially support your biological child / children who do not live with you?
+246,q8_1,Q8-1. Jeste li ikada ošamarili partnerku ili na nju bacili nešto što ju je moglo,Q8-1.,Jeste li ikada ošamarili partnerku ili na nju bacili nešto što ju je moglo,Have you ever slapped your partner or thrown something at her that could have made her
+247,q8_2,Q8-2. Jeste li ikada gurnuli partnerku ?,Q8-2.,Jeste li ikada gurnuli partnerku ?,Have you ever pushed your partner?
+248,q8_3,Q8-3. Jeste li ikada udarili partnerku šakom ili s nečim drugim što ju je moglo ,Q8-3.,Jeste li ikada udarili partnerku šakom ili s nečim drugim što ju je moglo ,Have you ever punched your partner with your fist or with something else that could have hit her
+249,q8_4,"Q8-4. Jeste li ikada udarili nogom, vukli, istukli, gušili ili nanijeli opekotin",Q8-4.,"Jeste li ikada udarili nogom, vukli, istukli, gušili ili nanijeli opekotin","Have you ever kicked, dragged, beaten, suffocated or inflicted a burn"
+250,q8_5,Q8-5. Jeste li ikada prijetili da ćete upotrijebiti ili ste upotrijebili pištolj,Q8-5.,Jeste li ikada prijetili da ćete upotrijebiti ili ste upotrijebili pištolj,Have you ever threatened to use or have you used a gun
+251,q8_6,Q8-6. Imate li muškog prijatelja koji koristi fizičko nasilje protiv svoje partn,Q8-6.,Imate li muškog prijatelja koji koristi fizičko nasilje protiv svoje partn,Do you have a male friend who uses physical violence against his partner
+252,q8_7,Q8-7. Da li bi mogli dovesti u pitanje/prigovoriti njegovom ponašanju?,Q8-7.,Da li bi mogli dovesti u pitanje/prigovoriti njegovom ponašanju?,Could they question / object to his behavior?
+253,q8_8,Q8-8. Šta bi učinili da vidite muškog prijatelja kako vrši nasilje nad ženom?,Q8-8.,Šta bi učinili da vidite muškog prijatelja kako vrši nasilje nad ženom?,What would you do to see a male friend committing violence against a woman?
+254,q8_9,Q8-9. Šta biste učinili da vidite nekog nepoznatog muškarca da vrši nasilje nad ,Q8-9.,Šta biste učinili da vidite nekog nepoznatog muškarca da vrši nasilje nad ,What would you do to see an unknown man committing violence against you
+255,q8_10,Q8-10. Jeste li ikada razgovarali sa vašim sinom ili s dječakom za kojega se bri,Q8-10.,Jeste li ikada razgovarali sa vašim sinom ili s dječakom za kojega se bri,Have you ever talked to your son or the boy he cares about
+256,q9_1,"Q9-1. Kada ste zadnji put potražili zdravstvenu pomoć u zdravstvenoj ustanovi, u",Q9-1.,"Kada ste zadnji put potražili zdravstvenu pomoć u zdravstvenoj ustanovi, u","When was the last time you sought medical help at a health care facility, in"
+257,q9_2,"Q9-2. Zadnji put kada ste potražili zdravstvenu pomoć, koji je bio glavni razlog",Q9-2.,"Zadnji put kada ste potražili zdravstvenu pomoć, koji je bio glavni razlog","The last time you sought medical help, which was the main reason"
+258,q9_2dr,Q9-2dr. Drugo (navesti),Q9-2dr.,Drugo (navesti),Other (specify)
+259,q9_3,"Q9-3. Ako ste iznad 40 godina starosti, jeste li ikada išli na pregled prostate?",Q9-3.,"Ako ste iznad 40 godina starosti, jeste li ikada išli na pregled prostate?","If you are over 40, have you ever had a prostate exam?"
+260,q9_4,Q9-4. Jeste li se ikada testirali na HIV?,Q9-4.,Jeste li se ikada testirali na HIV?,Have you ever been tested for HIV?
+261,q9_5,Q9-5. Jeste li uzeli rezultat ili se vratili po njega?,Q9-5.,Jeste li uzeli rezultat ili se vratili po njega?,Did you take the result or come back for it?
+262,q9_6,Q9-6. Je li vaša partnerka imala abortus?,Q9-6.,Je li vaša partnerka imala abortus?,Did your partner have an abortion?
+263,q9_7,Q9-7. Jeste li ikada učestvovali u odluci vaše partnerke da izvrši abortus?,Q9-7.,Jeste li ikada učestvovali u odluci vaše partnerke da izvrši abortus?,Have you ever been involved in your partner's decision to have an abortion?
+264,q9_8,Q9-8. Jeste li partnerki pružili finansijsku pomoć za izvršenje abortusa? (Ako s,Q9-8.,Jeste li partnerki pružili finansijsku pomoć za izvršenje abortusa? (Ako s,Have you provided financial assistance to your partner to perform an abortion? (If s
+265,q9_9,Q9-9. Jeste li išli s partnerkom na abortus? (Ako se dogodilo više od jednog put,Q9-9.,Jeste li išli s partnerkom na abortus? (Ako se dogodilo više od jednog put,Did you go to an abortion with your partner? (If it happened more than once
+266,q9_10,Q9-10. Zadovoljan sam svojim tijelom.,Q9-10.,Zadovoljan sam svojim tijelom.,I am happy with my body.
+267,q9_11,Q9-11. Držim da moj život nije ni od kakve koristi nikome.,Q9-11.,Držim da moj život nije ni od kakve koristi nikome.,I hold that my life is of no use to anyone.
+268,q9_12,Q9-12. Sve skupa imam puno razloga da budem ponosan.,Q9-12.,Sve skupa imam puno razloga da budem ponosan.,All in all I have a lot of reasons to be proud.
+269,q9_13,Q9-13. Imam dobar seksualni život.,Q9-13.,Imam dobar seksualni život.,I have a good sex life.
+270,q9_14,Q9-14. Ponekad kada sam sa prijateljima osjećam se potčinjeno.,Q9-14.,Ponekad kada sam sa prijateljima osjećam se potčinjeno.,Sometimes when I’m with friends I feel submissive.
+271,q9_15_1,Q9-15.: Ne,Q9-15.:,Ne,Not
+272,q9_15_2,Q9-15.: Partnerka- djevojka- partner,Q9-15.:,Partnerka- djevojka- partner,Partner-girl-partner
+273,q9_15_3,Q9-15.: Rodbina,Q9-15.:,Rodbina,Relatives
+274,q9_15_4,Q9-15.: Profesionalna pomoć,Q9-15.:,Profesionalna pomoć,Professional help
+275,q9_15_5,Q9-15.: Obitelj,Q9-15.:,Obitelj,Family
+276,q9_15_6,Q9-15.: Profesor-Socijalni radnik,Q9-15.:,Profesor-Socijalni radnik,Professor-Social Worker
+277,q9_15_7,Q9-15.: Doktor.,Q9-15.:,Doktor.,Doctor.
+278,q9_15_8,Q9-15.: Sveštenik-religijski vođa,Q9-15.:,Sveštenik-religijski vođa,Priest-religious leader
+279,q9_15_9,Q9-15.: Prijateljice,Q9-15.:,Prijateljice,Friends
+280,q9_15_10,Q9-15.: Prijatelji,Q9-15.:,Prijatelji,Friends
+281,q9_15_11,Q9-15.: Osoba koja se bavi alternativnom medicinom,Q9-15.:,Osoba koja se bavi alternativnom medicinom,A person who practices alternative medicine
+282,q9_15_12,Q9-15.: Neko drugi,Q9-15.:,Neko drugi,Someone else
+283,q9_16,Q9-16. Stres,Q9-16.,Stres,Stress
+284,q9_17,Q9-17. Depresija,Q9-17.,Depresija,Depression
+285,q9_18,Q9-18. Suicidalne misli,Q9-18.,Suicidalne misli,Suicidal thoughts
+286,q9_19,Q9-19. Promjene u kilaži,Q9-19.,Promjene u kilaži,Changes in weight
+287,q9_20,Q9-20. Problemi sa želucem/probavom,Q9-20.,Problemi sa želucem/probavom,Stomach / digestion problems
+288,q9_21,Q9-21. Glavobolje,Q9-21.,Glavobolje,Headaches
+289,q9_22,Q9-22. Gubitak seksualne želje,Q9-22.,Gubitak seksualne želje,Loss of sexual desire
+290,q9_23,Q9-23. Zdravstveni problem vezan za posao ili povreda na poslu,Q9-23.,Zdravstveni problem vezan za posao ili povreda na poslu,Work-related health problem or work-related injury
+291,q9_24_1,"Q9-24.: Da, kao rezultat povrede",Q9-24.:,"Da, kao rezultat povrede","Yes, as a result of injury"
+292,q9_24_2,"Q9-24.: Da, kao rezultat nasilja",Q9-24.:,"Da, kao rezultat nasilja","Yes, as a result of violence"
+293,q9_24_3,"Q9-24.: Da, kao rezultat saobraćajne ili neke druge nezgode",Q9-24.:,"Da, kao rezultat saobraćajne ili neke druge nezgode","Yes, as a result of a traffic accident or some other accident"
+294,q9_24_4,"Q9-24.: Da, kao rezultat bolesti",Q9-24.:,"Da, kao rezultat bolesti","Yes, as a result of illness"
+295,q9_24_5,Q9-24.: Ne,Q9-24.:,Ne,Not
+296,q9_25,Q9-25. Smatrate li da su raspoložive zdravstvene usluge koje koristite prilagođe,Q9-25.,Smatrate li da su raspoložive zdravstvene usluge koje koristite prilagođe,Do you feel that the health services available that you are using are customizable
+297,q10_1,Q10-1. Jeste li ikada nekoga pokrali?,Q10-1.,Jeste li ikada nekoga pokrali?,Have you ever stolen someone?
+298,q10_2,Q10-2. Jeste li ikada bili uključeni u tuču nožem ili nekim drugim oružjem?,Q10-2.,Jeste li ikada bili uključeni u tuču nožem ili nekim drugim oružjem?,Have you ever been involved in a fight with a knife or some other weapon?
+299,q10_3,Q10-3. Jeste li ikada bili član bande?,Q10-3.,Jeste li ikada bili član bande?,Have you ever been a gang member?
+300,q10_4,Q10-4. Posjedujete li vatreno oružje?,Q10-4.,Posjedujete li vatreno oružje?,Do you own a firearm?
+301,q10_5,Q10-5. Jeste li ikada bili uhapšeni?,Q10-5.,Jeste li ikada bili uhapšeni?,Have you ever been arrested?
+302,q10_6,Q10-6. Koliko puta ste bili uhapšeni?,Q10-6.,Koliko puta ste bili uhapšeni?,How many times have you been arrested?
+303,q10_7,Q10-7. Jeste li bili u zatvoru?,Q10-7.,Jeste li bili u zatvoru?,Have you been to jail?
+304,q10_8,Q10-8. Koliko često popijete alkoholno piće?,Q10-8.,Koliko često popijete alkoholno piće?,How often do you drink alcohol?
+305,q10_9,Q10-9. Koliko često popijete 5 ili više alkoholnih pića u jednoj prilici?,Q10-9.,Koliko često popijete 5 ili više alkoholnih pića u jednoj prilici?,How often do you drink 5 or more alcoholic beverages on one occasion?
+306,q10_10,Q10-10. Koliko puta ste koristili marihuanu tokom posljednjih 12 mjeseci?,Q10-10.,Koliko puta ste koristili marihuanu tokom posljednjih 12 mjeseci?,How many times have you used marijuana in the last 12 months?
+307,q10_11,Q10-11. Neko vas je lupio ili udario.,Q10-11.,Neko vas je lupio ili udario.,Someone hit you or hit you.
+308,q10_12,Q10-12. Neko vam je prijetio nožem ili drugim hladnim oružjem.,Q10-12.,Neko vam je prijetio nožem ili drugim hladnim oružjem.,Someone threatened you with a knife or other cold weapon.
+309,q10_13,Q10-13. Neko vam je prijetio pištoljem.,Q10-13.,Neko vam je prijetio pištoljem.,Someone threatened you with a gun.
+310,q10_14,Q10-14. Drugo,Q10-14.,Drugo,Else
+311,q10_14dr,Q10-14dr. Drugo (navesti),Q10-14dr.,Drugo (navesti),Other (specify)
+312,q10_15,Q10-15. Jeste li ikada imali seksualni odnos ili učinili nešto seksualno s drugi,Q10-15.,Jeste li ikada imali seksualni odnos ili učinili nešto seksualno s drugi,Jeste li ikada imali seksualni odnos ili učinili nešto seksualno s drugi
+313,q10_16,Q10-16. Koliko ste imali godina kada ste prvi put imali seksualni odnos s muškar,Q10-16.,Koliko ste imali godina kada ste prvi put imali seksualni odnos s muškar,How old were you when you first had sex with a man
+314,q10_17,Q10-17. Koji pol vas seksualno privlači? Seksualno me privlače:,Q10-17.,Koji pol vas seksualno privlači? Seksualno me privlače:,Which gender attracts you sexually? I am sexually attracted to:
+315,q10_18,"Q10-18. Ako vas privlače muškarci a ne živite s partnerom, da li biste željeli ž",Q10-18.,"Ako vas privlače muškarci a ne živite s partnerom, da li biste željeli ž","If you are attracted to men and do not live with a partner, would you like to ž"
+316,q10_19,Q10-19. Koliko puta ste imali seks sa ženom ili djevojkom kada ona nije pristala,Q10-19.,Koliko puta ste imali seks sa ženom ili djevojkom kada ona nije pristala,How many times have you had sex with a woman or a girl when she didn’t agree
+317,q10_20,Q10-20. Koliko puta ste imali seks sa ženom ili djevojkom kada je ona bila previ,Q10-20.,Koliko puta ste imali seks sa ženom ili djevojkom kada je ona bila previ,How many times have you had sex with a woman or a girl when she was too old
+318,q10_21,Q10-21. Jeste li ikada prisilili vašu djevojku ili suprugu na seks s vama?,Q10-21.,Jeste li ikada prisilili vašu djevojku ili suprugu na seks s vama?,Jeste li ikada prisilili vašu djevojku ili suprugu na seks s vama?
+319,q10_22,Q10-22. Jeste li ikada prisilili bivšu djevojku ili bivšu ženu na seksualni odno,Q10-22.,Jeste li ikada prisilili bivšu djevojku ili bivšu ženu na seksualni odno,Have you ever forced an ex-girlfriend or ex-wife into a sexual relationship
+320,q10_23,Q10-23. Jeste li ikada prisili ženu koja NIJE bila vaša žena ili djevojka na sek,Q10-23.,Jeste li ikada prisili ženu koja NIJE bila vaša žena ili djevojka na sek,Have you ever forced a woman who was NOT your wife or girlfriend for sex
+321,q10_24,Q10-24. Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s,Q10-24.,Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s,Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s
+322,q10_25,Q10-25. Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s,Q10-25.,Koliko puta ste vi i drugi muškarci imali istovremeno seksualne odnose s,How many times have you and other men had sexual intercourse with
+323,q10_26,Q10-26. Jeste li ikada učinili nešto seksualno sa mladićem ili muškarcem kada on,Q10-26.,Jeste li ikada učinili nešto seksualno sa mladićem ili muškarcem kada on,Have you ever done something sexual with a young man or a man when he
+324,q10_27,Q10-27. Koliko žena/djevojaka ste prisilili na seks?,Q10-27.,Koliko žena/djevojaka ste prisilili na seks?,Koliko žena/djevojaka ste prisilili na seks?
+325,q10_28_1,Q10-28-1. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to m,Q10-28-1.,mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to m,mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to m
+326,q10_28_2,Q10-28-2. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da to krši,Q10-28-2.,mislite o odrasloj ženi koja radi kao prostitutka... Mislim da to krši,think of an adult woman working as a prostitute ... I think it violates
+327,q10_28_3,Q10-28-3. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to n,Q10-28-3.,mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to n,mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to n
+328,q10_28_4,Q10-28-4. mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to p,Q10-28-4.,mislite o odrasloj ženi koja radi kao prostitutka... Mislim da je to p,think of an adult woman working as a prostitute ... I think it's p
+329,q10_28_5,Q10-28-5. mislite o odrasloj ženi koja radi kao prostitutka... Ne vidim problem ,Q10-28-5.,mislite o odrasloj ženi koja radi kao prostitutka... Ne vidim problem ,think of an adult woman working as a prostitute ... I don't see a problem
+330,q10_28_6,Q10-28-6. mislite o odrasloj ženi koja radi kao prostitutka... To je posao kao i,Q10-28-6.,mislite o odrasloj ženi koja radi kao prostitutka... To je posao kao i,think of an adult woman working as a prostitute ... It's a job as well
+331,q10_29_1,Q10-29-1. mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,Q10-29-1.,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,think of a woman under 18 who works as a prostitute ... I mean d
+332,q10_29_2,Q10-29-2. mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,Q10-29-2.,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d
+333,q10_29_3,Q10-29-3. mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,Q10-29-3.,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,think of a woman under 18 who works as a prostitute ... I mean d
+334,q10_29_4,Q10-29-4. mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,Q10-29-4.,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Mislim d,think of a woman under 18 who works as a prostitute ... I mean d
+335,q10_29_5,Q10-29-5. mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Ne vidim,Q10-29-5.,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... Ne vidim,think of a woman under 18 who works as a prostitute ... I don't see
+336,q10_29_6,Q10-29-6. mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... To je po,Q10-29-6.,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... To je po,mislite o ženi mlađoj od 18 god. koja radi kao prostitutka... To je po
+337,q10_30_1,Q10-30-1. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t,Q10-30-1.,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t
+338,q10_30_2,Q10-30-2. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da to k,Q10-30-2.,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da to k,Think of an adult male. who provides sexual services ... I think that k
+339,q10_30_3,Q10-30-3. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t,Q10-30-3.,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t
+340,q10_30_4,Q10-30-4. mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t,Q10-30-4.,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t,mislite o odraslom mušk. koji pruža seksualne usluge... Mislim da je t
+341,q10_30_5,Q10-30-5. mislite o odraslom mušk. koji pruža seksualne usluge... Ne vidim probl,Q10-30-5.,mislite o odraslom mušk. koji pruža seksualne usluge... Ne vidim probl,mislite o odraslom mušk. koji pruža seksualne usluge... Ne vidim probl
+342,q10_30_6,Q10-30-6. mislite o odraslom mušk. koji pruža seksualne usluge... To je posao ka,Q10-30-6.,mislite o odraslom mušk. koji pruža seksualne usluge... To je posao ka,mislite o odraslom mušk. koji pruža seksualne usluge... To je posao ka
+343,q10_31_1,Q10-31-1. mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,Q10-31-1.,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,Think of a man. younger than 18 years who provides sexual services ... Thoughts
+344,q10_31_2,Q10-31-2. mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,Q10-31-2.,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli
+345,q10_31_3,Q10-31-3. mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,Q10-31-3.,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli
+346,q10_31_4,Q10-31-4. mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,Q10-31-4.,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Misli
+347,q10_31_5,Q10-31-5. mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Ne vi,Q10-31-5.,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... Ne vi,Think of a man. younger than 18 years who provides sexual services ... Not you
+348,q10_31_6,Q10-31-6. mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... To je,Q10-31-6.,mislite o mušk. mlađem od 18 god. koji pruža seksualne usluge... To je,Think of a man. younger than 18 years who provides sexual services ... That's it
+349,q10_32_1,Q10-32-1. Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je p,Q10-32-1.,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je p,What do you think about men who pay for sexual services? I think p
+350,q10_32_2,Q10-32-2. Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t,Q10-32-2.,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t
+351,q10_32_3,Q10-32-3. Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t,Q10-32-3.,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t,What do you think about men who pay for sexual services? I think t
+352,q10_32_4,Q10-32-4. Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t,Q10-32-4.,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je t,What do you think about men who pay for sexual services? I think t
+353,q10_32_5,Q10-32-5. Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da to č,Q10-32-5.,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da to č,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da to č
+354,q10_32_6,Q10-32-6. Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je s,Q10-32-6.,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je s,Šta mislite o muškarcima koji plaćaju seksualne usluge? Mislim da je s
+355,q10_33,Q10-33. Mislite li da bi trebalo biti legalno kupovati seksualne usluge?,Q10-33.,Mislite li da bi trebalo biti legalno kupovati seksualne usluge?,Mislite li da bi trebalo biti legalno kupovati seksualne usluge?
+356,q10_34,Q10-34. Mislite li da bi trebalo biti legalno raditi kao osoba koja pruža seksua,Q10-34.,Mislite li da bi trebalo biti legalno raditi kao osoba koja pruža seksua,Do you think it should be legal to work as a sex worker
+357,q10_35,Q10-35. vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj hra,Q10-35.,vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj hra,your girlfriends or partners - started a relationship because: Provide her food
+358,q10_36,Q10-36. vaše djevojke ili partnerice - započele vezu zato što: Platili joj trošk,Q10-36.,vaše djevojke ili partnerice - započele vezu zato što: Platili joj trošk,vaše djevojke ili partnerice - započele vezu zato što: Platili joj trošk
+359,q10_37,Q10-37. vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj smj,Q10-37.,vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj smj,vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj smj
+360,q10_38,Q10-38. vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj koz,Q10-38.,vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj koz,your girlfriends or partners - started a relationship because: They provided her with a goat
+361,q10_39,Q10-39. vaše djevojke ili partnerice - započele vezu zato što: Pružili joj stvar,Q10-39.,vaše djevojke ili partnerice - započele vezu zato što: Pružili joj stvar,vaše djevojke ili partnerice - započele vezu zato što: Pružili joj stvar
+362,q10_40,Q10-40. vaše djevojke ili partnerice - započele vezu zato što: Pružili joj novac,Q10-40.,vaše djevojke ili partnerice - započele vezu zato što: Pružili joj novac,your girlfriends or partners - started a relationship because: They gave her money
+363,q10_41,Q10-41. vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj bil,Q10-41.,vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj bil,vaše djevojke ili partnerice - započele vezu zato što: Osigurali joj bil
+364,q10_42,Q10-42. vaše djevojke ili partnerice - započele vezu zato što: Vršili popravke u,Q10-42.,vaše djevojke ili partnerice - započele vezu zato što: Vršili popravke u,vaše djevojke ili partnerice - započele vezu zato što: Vršili popravke u
+365,q10_43,"Q10-43. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj hranu,",Q10-43.,"bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj hranu,","bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj hranu,"
+366,q10_44,Q10-44. bilo koje djevojke/žene - stupile u odnos zato što: Platili joj troškove,Q10-44.,bilo koje djevojke/žene - stupile u odnos zato što: Platili joj troškove,bilo koje djevojke/žene - stupile u odnos zato što: Platili joj troškove
+367,q10_45,Q10-45. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj smješt,Q10-45.,bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj smješt,any girl / woman - entered into a relationship because: They provided her with accommodation
+368,q10_46,Q10-46. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj kozmet,Q10-46.,bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj kozmet,bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj kozmet
+369,q10_47,Q10-47. bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj stvari z,Q10-47.,bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj stvari z,any girl / woman - entered into a relationship because: They gave her things z
+370,q10_48,Q10-48. bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj novac da,Q10-48.,bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj novac da,bilo koje djevojke/žene - stupile u odnos zato što: Pružili joj novac da
+371,q10_49,Q10-49. bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj bilo š,Q10-49.,bilo koje djevojke/žene - stupile u odnos zato što: Osigurali joj bilo š,any girl / woman - entered into a relationship because: They secured her any š
+372,q10_50,Q10-50. bilo koje djevojke/žene - stupile u odnos zato što: Vršili popravke u ku,Q10-50.,bilo koje djevojke/žene - stupile u odnos zato što: Vršili popravke u ku,any girls / women - entered into a relationship because: They made repairs in the house
+373,q10_51_1,"Q10-51.: Da, sa ženom koja pruža seksualne usluge",Q10-51.:,"Da, sa ženom koja pruža seksualne usluge","Da, sa ženom koja pruža seksualne usluge"
+374,q10_51_2,"Q10-51.: Da, sa muškarcem koji pruža seksualne usluge",Q10-51.:,"Da, sa muškarcem koji pruža seksualne usluge","Yes, with a man who provides sexual services"
+375,q10_51_3,"Q10-51.: Da, sa transvestitom",Q10-51.:,"Da, sa transvestitom","Da, sa transvestitom"
+376,q10_51_4,Q10-51.: Ne,Q10-51.:,Ne,Ne
+377,q10_51_5,Q10-51.: odbija - bez odgovora,Q10-51.:,odbija - bez odgovora,refused - no answer
+378,q10_52,Q10-52. Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru,Q10-52.,Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru,Have you ever had sexual intercourse with a prostitute or a person who provides
+379,q10_53,Q10-53. Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru,Q10-53.,Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru,Jeste li ikada imali seksualne odnose s prostitutkom ili osobom koja pru
+380,q10_54,Q10-54. Kada biste znali da je prostitutka ili osoba koja pruža seksualne usluge,Q10-54.,Kada biste znali da je prostitutka ili osoba koja pruža seksualne usluge,If you knew she was a prostitute or a person providing sexual services
+381,q11_1,Q11-1. U kojoj mjeri posjećuješ bogomolju?,Q11-1.,U kojoj mjeri posjećuješ bogomolju?,U kojoj mjeri posjećuješ bogomolju?
+382,q11_2,Q11-2. Koliko često se SAM moliš ili čitaš vjerske spise?,Q11-2.,Koliko često se SAM moliš ili čitaš vjerske spise?,Koliko često se SAM moliš ili čitaš vjerske spise?
+383,q11_3,Q11-3. Imao sam mistični doživljaj i iskustvo Božijeg postojanja,Q11-3.,Imao sam mistični doživljaj i iskustvo Božijeg postojanja,Imao sam mistični doživljaj i iskustvo Božijeg postojanja
+384,q11_4,Q11-4. Moj čitav život je zasnovan na vjeri u Boga,Q11-4.,Moj čitav život je zasnovan na vjeri u Boga,Moj čitav život je zasnovan na vjeri u Boga
+385,q11_5,Q11-5. Veoma se trudim da prenesem svoju religioznost na sve druge životne postu,Q11-5.,Veoma se trudim da prenesem svoju religioznost na sve druge životne postu,I try very hard to pass on my religiosity to all other life fasts
+386,q11_6,Q11-6. Da li imaš nekoga od prijatelja ko je druge nacionalnosti?,Q11-6.,Da li imaš nekoga od prijatelja ko je druge nacionalnosti?,Do you have any friends who are of other nationalities?
+387,q11_7,Q11-7. Da li si u braku sa osobom iste nacionalnosti?,Q11-7.,Da li si u braku sa osobom iste nacionalnosti?,Are you married to a person of the same nationality?
+388,q11_8,Q11-8. Da li imaš rodbine koja je druge nacije?,Q11-8.,Da li imaš rodbine koja je druge nacije?,Do you have relatives who are from another nation?
+389,q11_9,Q11-9. Veoma mi je važna moja etnička pripadnost. (Zaokruži koliko si saglasan s,Q11-9.,Veoma mi je važna moja etnička pripadnost. (Zaokruži koliko si saglasan s,Veoma mi je važna moja etnička pripadnost. (Zaokruži koliko si saglasan s
+390,q11_10,"Q11-10. Ljudima drugih nacija u BiH nikad više ne treba vjerovati, čak i ako se ",Q11-10.,"Ljudima drugih nacija u BiH nikad više ne treba vjerovati, čak i ako se ","People of other nations in BiH should never be trusted again, even if they are"
+391,q11_11,Q11-11. Druge nacije su stalno kroz istoriju smišljale planove protiv mog naroda,Q11-11.,Druge nacije su stalno kroz istoriju smišljale planove protiv mog naroda,Other nations have consistently devised plans against my people throughout history
+392,q11_12,Q11-12. Najugodnije se osjećam u onom društvu u kojem su svi pripadnici moje nac,Q11-12.,Najugodnije se osjećam u onom društvu u kojem su svi pripadnici moje nac,I feel most comfortable in that society where all the members of my nac
+393,q11_13,Q11-13. Narod kojem pripadam je pošteniji od drugih naroda u BiH. (Zaokruži koli,Q11-13.,Narod kojem pripadam je pošteniji od drugih naroda u BiH. (Zaokruži koli,The people I belong to are fairer than other peoples in BiH. (Circle any
+394,q11_14,Q11-14. Ne bi mi se svidjelo da radim na poslu zajedno sa ljudima neke druge nac,Q11-14.,Ne bi mi se svidjelo da radim na poslu zajedno sa ljudima neke druge nac,Ne bi mi se svidjelo da radim na poslu zajedno sa ljudima neke druge nac
+395,q11_15,Q11-15. Mogao bih da budem veliki prijatelj sa ljudima drugih nacija u BiH (Zaok,Q11-15.,Mogao bih da budem veliki prijatelj sa ljudima drugih nacija u BiH (Zaok,I could be great friends with people of other nations in BiH (Zaok
+396,q11_16,Q11-16. Ne bih pristao da stupim u brak sa pripadnicima drugih nacija u BiH. (Za,Q11-16.,Ne bih pristao da stupim u brak sa pripadnicima drugih nacija u BiH. (Za,Ne bih pristao da stupim u brak sa pripadnicima drugih nacija u BiH. (Za
+397,q11_17,Q11-17. Život u ratom zahvaćenim područjima (U ovom dijelu upitnika navedena je ,Q11-17.,Život u ratom zahvaćenim područjima (U ovom dijelu upitnika navedena je ,Život u ratom zahvaćenim područjima (U ovom dijelu upitnika navedena je 
+398,q11_18,Q11-18. Privremeno napuštanje porodične kuće usljed ratnih zbivanja (U ovom dije,Q11-18.,Privremeno napuštanje porodične kuće usljed ratnih zbivanja (U ovom dije,Privremeno napuštanje porodične kuće usljed ratnih zbivanja (U ovom dije
+399,q11_19,Q11-19. Trajno izbjeglištvo i preseljenje usljed ratnih zbivanja (U ovom dijelu ,Q11-19.,Trajno izbjeglištvo i preseljenje usljed ratnih zbivanja (U ovom dijelu ,Trajno izbjeglištvo i preseljenje usljed ratnih zbivanja (U ovom dijelu 
+400,q11_20,Q11-20. Gubitak zaposlenja zbog etničke pripadnosti (U ovom dijelu upitnika nave,Q11-20.,Gubitak zaposlenja zbog etničke pripadnosti (U ovom dijelu upitnika nave,Gubitak zaposlenja zbog etničke pripadnosti (U ovom dijelu upitnika nave
+401,q11_21,Q11-21. Direktno učestvovanje u ratnim borbama (U ovom dijelu upitnika navedena ,Q11-21.,Direktno učestvovanje u ratnim borbama (U ovom dijelu upitnika navedena ,Direct participation in warfare (In this part of the questionnaire listed
+402,q11_22,Q11-22. Ranjavanje ili zarobljavanje bliske osobe (U ovom dijelu upitnika navede,Q11-22.,Ranjavanje ili zarobljavanje bliske osobe (U ovom dijelu upitnika navede,Wounding or capturing a close person (In this part of the questionnaire he states
+403,q11_23,Q11-23. Svjedočio seksualnom nasilju tokom ratnih zbivanja (U ovom dijelu upitni,Q11-23.,Svjedočio seksualnom nasilju tokom ratnih zbivanja (U ovom dijelu upitni,Witnessed sexual violence during the war (In this part of the question
+404,q11_24,Q11-24. Smrt bliske osobe (U ovom dijelu upitnika navedena je lista životnih dog,Q11-24.,Smrt bliske osobe (U ovom dijelu upitnika navedena je lista životnih dog,"Death of a close person (In this part of the questionnaire, a list of life dogs is given"
+405,q11_25,Q11-25. Bio sam ranjen/a ili zarobljen/a tokom rata (U ovom dijelu upitnika nave,Q11-25.,Bio sam ranjen/a ili zarobljen/a tokom rata (U ovom dijelu upitnika nave,I was wounded or captured during the war (In this part of the questionnaire
+406,katgodine,"kategorije godina , do 24, 25-34, 35-49, 50-59",kategorije,"godina , do 24, 25-34, 35-49, 50-59","years, to 24, 25-34, 35-49, 50-59"
